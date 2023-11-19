@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  classnames:
+    specifier: ^2.3.2
+    version: 2.3.2
   flowbite:
     specifier: ^2.1.1
     version: 2.1.1
