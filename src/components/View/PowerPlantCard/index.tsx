@@ -1,46 +1,65 @@
-import { type FC } from 'react';
+import { useMemo, type FC } from 'react';
 
-export const PowerPlantCard: FC = () => {
+import { Link } from 'react-router-dom';
+
+import { ArrowIcon, MapMarkerIcon, ThunderBoltIcon } from '../../Icons';
+import { Badge } from '../Badge';
+import { type IPowerPlantCardProps } from './PowerPlantCardTypes';
+import { getVariantByStatus } from './PowerPlantCardUtils';
+
+export const PowerPlantCard: FC<IPowerPlantCardProps> = ({
+  id,
+  title = '',
+  status = '',
+  location = '',
+  capacity = '',
+}) => {
+  const statusVariant = useMemo(() => getVariantByStatus(status), [status]);
+
   return (
     <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
       <a href="#">
         <img
           className="rounded-t-lg"
-          src="/docs/images/blog/image-1.jpg"
-          alt=""
+          src="https://i.imgur.com/8BPlNq0.jpeg"
+          alt={title}
         />
       </a>
       <div className="p-5">
-        <a href="#">
-          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-            Noteworthy technology acquisitions 2021
-          </h5>
-        </a>
-        <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-          Here are the biggest enterprise technology acquisitions of 2021 so
-          far, in reverse chronological order.
-        </p>
-        <a
-          href="#"
-          className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-        >
-          Read more
-          <svg
-            className="rtl:rotate-180 w-3.5 h-3.5 ms-2"
-            aria-hidden="true"
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 14 10"
+        <Link to="#">
+          <h5
+            className="mb-3 text-2xl font-bold tracking-tight text-gray-900 dark:text-white line-clamp-1"
+            title={title}
           >
-            <path
-              stroke="currentColor"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth="2"
-              d="M1 5h12m0 0L9 1m4 4L9 9"
-            />
-          </svg>
-        </a>
+            {title}
+          </h5>
+        </Link>
+        <div className="flex items-center mb-3">
+          <Badge variant={statusVariant}>{status}</Badge>
+          <div className="flex items-center">
+            <span className="inline-block mr-2">
+              <ThunderBoltIcon className="w-5 h-5 text-blue-500" />
+            </span>
+            <span className="break-words">{capacity}</span>
+          </div>
+        </div>
+        <div className="flex items-center mb-5">
+          <span className="inline-block mr-2">
+            <MapMarkerIcon className="w-5 h-5 text-red-500" />
+          </span>
+          <span className="line-clamp-2" title={location}>
+            {location}
+          </span>
+        </div>
+        <div className="flex justify-end">
+          <Link
+            to={`/power-plant/${id}`}
+            className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+          >
+            Veja mais
+            <ArrowIcon className="rtl:rotate-180 w-3.5 h-3.5 ms-2" />
+          </Link>
+        </div>
       </div>
     </div>
   );
