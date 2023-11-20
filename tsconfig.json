@@ -26,9 +26,15 @@
       "~/*": ["*"],
       "~assets/*": ["assets/*"],
       "~components/*": ["components/*"],
+      "~config": ["config/index.ts"],
       "~pages/*": ["pages/*"],
+      "~helpers/*": ["helpers/*"],
+      "~helpers": ["helpers/index.ts"],
       "~hocs/*": ["hocs/*"],
-      "~hocs": ["hocs/index.ts"]
+      "~hocs": ["hocs/index.ts"],
+      "~hooks": ["hooks/index.ts"],
+      "~services/*": ["services/*"],
+      "~services": ["services/index.ts"]
     }
   },
   "include": ["src/**/*.ts", "src/**/*.tsx"],

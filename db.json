@@ -1,0 +1,6264 @@
+{
+  "power-plants": [
+    {
+      "id": 1,
+      "nome": "Solarex Energia",
+      "localizacao": "Rua da Harmonia, 808, Belém, PA, Brasil",
+      "capacidade": "28 MW",
+      "status": "Desativada",
+      "latitude": 34.26645,
+      "longitude": 108.960747,
+      "anoConstrucao": 2009,
+      "fabricantePaineis": "Yingli Solar",
+      "descricao": "Inovação em energia solar: Desenvolvemos sistemas solares inteligentes para residências e empresas, combinando eficiência energética com tecnologia de ponta.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 476
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 337
+        },
+        {
+          "mes": "Março",
+          "valor": 492
+        },
+        {
+          "mes": "Abril",
+          "valor": 374
+        },
+        {
+          "mes": "Maio",
+          "valor": 342
+        },
+        {
+          "mes": "Junho",
+          "valor": 465
+        },
+        {
+          "mes": "Julho",
+          "valor": 435
+        },
+        {
+          "mes": "Agosto",
+          "valor": 476
+        },
+        {
+          "mes": "Setembro",
+          "valor": 334
+        },
+        {
+          "mes": "Outubro",
+          "valor": 325
+        },
+        {
+          "mes": "Novembro",
+          "valor": 339
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 465
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Março",
+          "valor": 2670
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2988
+        },
+        {
+          "mes": "Junho",
+          "valor": 2848
+        },
+        {
+          "mes": "Abril",
+          "valor": 2895
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2678
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2811
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2777
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2547
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2960
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2330
+        },
+        {
+          "mes": "Março",
+          "valor": 2622
+        },
+        {
+          "mes": "Junho",
+          "valor": 2140
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "71%",
+      "proprietario": "SolarNova Solutions",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "SolaraLink Energy Node",
+      "tempoVidaEstimado": "15 anos",
+      "certificacoes": ["ISO 26000", "ISO 9001", "ISO 9001", "ISO 45001"],
+      "imagem": "https://i.ibb.co/WFDh8xX/1-existem-usinas-solares-no-brasil.jpg",
+      "areaTotal": "350 hectares",
+      "garantiaEquipamentos": "22 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 2,
+      "nome": "HelioPower S.A.",
+      "localizacao": "Avenida da Alegria, 909, Maceió, AL, Brasil",
+      "capacidade": "14 MW",
+      "status": "Operacional",
+      "latitude": 38.2070148,
+      "longitude": 128.5918489,
+      "anoConstrucao": 2020,
+      "fabricantePaineis": "BYD Solar",
+      "descricao": "Líder em Sustentabilidade: Oferecemos soluções personalizadas de energia solar, promovendo a transição para um futuro mais verde e econômico.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 353
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 495
+        },
+        {
+          "mes": "Março",
+          "valor": 333
+        },
+        {
+          "mes": "Abril",
+          "valor": 338
+        },
+        {
+          "mes": "Maio",
+          "valor": 452
+        },
+        {
+          "mes": "Junho",
+          "valor": 394
+        },
+        {
+          "mes": "Julho",
+          "valor": 387
+        },
+        {
+          "mes": "Agosto",
+          "valor": 385
+        },
+        {
+          "mes": "Setembro",
+          "valor": 433
+        },
+        {
+          "mes": "Outubro",
+          "valor": 352
+        },
+        {
+          "mes": "Novembro",
+          "valor": 474
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 493
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Outubro",
+          "valor": 2022
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2118
+        },
+        {
+          "mes": "Maio",
+          "valor": 2725
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2978
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2643
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2512
+        },
+        {
+          "mes": "Março",
+          "valor": 1808
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 1886
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2592
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1928
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2665
+        },
+        {
+          "mes": "Abril",
+          "valor": 2057
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "88%",
+      "proprietario": "LuminarPower Dynamics",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "QuantumLink Energy Center",
+      "tempoVidaEstimado": "50 anos",
+      "certificacoes": ["ISO 45001"],
+      "imagem": "https://i.ibb.co/WFDh8xX/1-existem-usinas-solares-no-brasil.jpg",
+      "areaTotal": "160 hectares",
+      "garantiaEquipamentos": "13 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 3,
+      "nome": "Lumina Solaris Ltda.",
+      "localizacao": "Travessa das Estrelas, 1010, Goiânia, GO, Brasil",
+      "capacidade": "37 MW",
+      "status": "Sob Recuperação",
+      "latitude": 29.099294,
+      "longitude": 119.692696,
+      "anoConstrucao": 2018,
+      "fabricantePaineis": "Risen Energy",
+      "descricao": "Integração Total de Energia: Especialistas em sistemas solares integrados, conectamos cada componente para maximizar o potencial de geração de energia.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 355
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 468
+        },
+        {
+          "mes": "Março",
+          "valor": 379
+        },
+        {
+          "mes": "Abril",
+          "valor": 321
+        },
+        {
+          "mes": "Maio",
+          "valor": 360
+        },
+        {
+          "mes": "Junho",
+          "valor": 339
+        },
+        {
+          "mes": "Julho",
+          "valor": 419
+        },
+        {
+          "mes": "Agosto",
+          "valor": 444
+        },
+        {
+          "mes": "Setembro",
+          "valor": 303
+        },
+        {
+          "mes": "Outubro",
+          "valor": 468
+        },
+        {
+          "mes": "Novembro",
+          "valor": 499
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 454
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Maio",
+          "valor": 2830
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2100
+        },
+        {
+          "mes": "Maio",
+          "valor": 2284
+        },
+        {
+          "mes": "Julho",
+          "valor": 2054
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2421
+        },
+        {
+          "mes": "Maio",
+          "valor": 2911
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2113
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2584
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2142
+        },
+        {
+          "mes": "Maio",
+          "valor": 2716
+        },
+        {
+          "mes": "Março",
+          "valor": 2453
+        },
+        {
+          "mes": "Junho",
+          "valor": 2839
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "99%",
+      "proprietario": "SunHarbor Energy",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "SunVista Energy Hub",
+      "tempoVidaEstimado": "50 anos",
+      "certificacoes": [
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 26000",
+        "ISO 26000",
+        "ISO 14001"
+      ],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "110 hectares",
+      "garantiaEquipamentos": "21 anos",
+      "contratoEnergia": "Contrato de Manutenção e Operação",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 4,
+      "nome": "SolisTech Solutions",
+      "localizacao": "Alameda dos Sonhos, 1111, Natal, RN, Brasil",
+      "capacidade": "23 MW",
+      "status": "Problemas Técnicos",
+      "latitude": 34.8066794,
+      "longitude": 32.4212424,
+      "anoConstrucao": 2022,
+      "fabricantePaineis": "Upsolar",
+      "descricao": "Visão Solar do Futuro: Desenvolvemos painéis solares estéticos que se integram perfeitamente à arquitetura, transformando a energia solar em uma obra-prima.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 384
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 411
+        },
+        {
+          "mes": "Março",
+          "valor": 500
+        },
+        {
+          "mes": "Abril",
+          "valor": 348
+        },
+        {
+          "mes": "Maio",
+          "valor": 306
+        },
+        {
+          "mes": "Junho",
+          "valor": 393
+        },
+        {
+          "mes": "Julho",
+          "valor": 461
+        },
+        {
+          "mes": "Agosto",
+          "valor": 472
+        },
+        {
+          "mes": "Setembro",
+          "valor": 417
+        },
+        {
+          "mes": "Outubro",
+          "valor": 305
+        },
+        {
+          "mes": "Novembro",
+          "valor": 350
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 415
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Setembro",
+          "valor": 2725
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2185
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2757
+        },
+        {
+          "mes": "Julho",
+          "valor": 2221
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2726
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1974
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 1931
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2033
+        },
+        {
+          "mes": "Maio",
+          "valor": 2246
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2527
+        },
+        {
+          "mes": "Maio",
+          "valor": 2773
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2776
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "91%",
+      "proprietario": "EcoLux Solar Ventures",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "SolarHub Substation",
+      "tempoVidaEstimado": "50 anos",
+      "certificacoes": ["ISO 26000", "ISO 9001", "ISO 14001", "ISO 9001"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "80 hectares",
+      "garantiaEquipamentos": "13 anos",
+      "contratoEnergia": "Contrato de Compra de Energia (Power Purchase Agreement - PPA)",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 5,
+      "nome": "Radiant Energy Systems",
+      "localizacao": "Praça da Liberdade, 1212, Florianópolis, SC, Brasil",
+      "capacidade": "50 MW",
+      "status": "Testes em Andamento",
+      "latitude": 35.1274285,
+      "longitude": -80.8599193,
+      "anoConstrucao": 2010,
+      "fabricantePaineis": "Panasonic Solar",
+      "descricao": "Colheita Sustentável de Energia: Pioneiros em tecnologias de colheita solar, transformamos a luz do sol em uma safra renovável de eletricidade.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 434
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 336
+        },
+        {
+          "mes": "Março",
+          "valor": 409
+        },
+        {
+          "mes": "Abril",
+          "valor": 391
+        },
+        {
+          "mes": "Maio",
+          "valor": 394
+        },
+        {
+          "mes": "Junho",
+          "valor": 383
+        },
+        {
+          "mes": "Julho",
+          "valor": 409
+        },
+        {
+          "mes": "Agosto",
+          "valor": 428
+        },
+        {
+          "mes": "Setembro",
+          "valor": 434
+        },
+        {
+          "mes": "Outubro",
+          "valor": 477
+        },
+        {
+          "mes": "Novembro",
+          "valor": 368
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 400
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Outubro",
+          "valor": 1940
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2772
+        },
+        {
+          "mes": "Março",
+          "valor": 2308
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2480
+        },
+        {
+          "mes": "Março",
+          "valor": 2896
+        },
+        {
+          "mes": "Março",
+          "valor": 2687
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2953
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1999
+        },
+        {
+          "mes": "Maio",
+          "valor": 2030
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2779
+        },
+        {
+          "mes": "Setembro",
+          "valor": 1938
+        },
+        {
+          "mes": "Abril",
+          "valor": 1949
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "92%",
+      "proprietario": "PhotonPeak Innovations",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "SunVista Energy Hub",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": [
+        "ISO 50001",
+        "ISO 9001",
+        "ISO 9001",
+        "ISO 9001",
+        "ISO 45001"
+      ],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "140 hectares",
+      "garantiaEquipamentos": "14 anos",
+      "contratoEnergia": "Contrato de Arrendamento de Terreno Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 6,
+      "nome": "SunWave Electric",
+      "localizacao": "Rua das Ondas, 1313, João Pessoa, PB, Brasil",
+      "capacidade": "18 MW",
+      "status": "Em Manutenção",
+      "latitude": 45.9701086,
+      "longitude": 14.3737786,
+      "anoConstrucao": 2015,
+      "fabricantePaineis": "Solon",
+      "descricao": "Dinâmica para um Amanhã Sustentável: Oferecemos soluções solares residenciais e comerciais adaptáveis, moldando um futuro energético sustentável.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 399
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 404
+        },
+        {
+          "mes": "Março",
+          "valor": 458
+        },
+        {
+          "mes": "Abril",
+          "valor": 436
+        },
+        {
+          "mes": "Maio",
+          "valor": 444
+        },
+        {
+          "mes": "Junho",
+          "valor": 434
+        },
+        {
+          "mes": "Julho",
+          "valor": 391
+        },
+        {
+          "mes": "Agosto",
+          "valor": 419
+        },
+        {
+          "mes": "Setembro",
+          "valor": 469
+        },
+        {
+          "mes": "Outubro",
+          "valor": 414
+        },
+        {
+          "mes": "Novembro",
+          "valor": 484
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 434
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Abril",
+          "valor": 2802
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2066
+        },
+        {
+          "mes": "Março",
+          "valor": 2801
+        },
+        {
+          "mes": "Junho",
+          "valor": 2255
+        },
+        {
+          "mes": "Abril",
+          "valor": 1894
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2338
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2982
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 1961
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2858
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1940
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2766
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2059
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "98%",
+      "proprietario": "HelioSync Power",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "NovaEra Power Node",
+      "tempoVidaEstimado": "25 anos",
+      "certificacoes": ["ISO 45001", "ISO 26000", "ISO 26000", "ISO 50001"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "80 hectares",
+      "garantiaEquipamentos": "21 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 7,
+      "nome": "LuxSolar Innovations",
+      "localizacao": "Avenida da Cidade, 1414, Teresina, PI, Brasil",
+      "capacidade": "42 MW",
+      "status": "Em Manutenção",
+      "latitude": 48.9898219,
+      "longitude": 1.7032903,
+      "anoConstrucao": 2001,
+      "fabricantePaineis": "Solarcentury",
+      "descricao": "Sincronia Solar: Desenvolvemos tecnologias de rastreamento solar avançadas para otimizar a captura de luz em todas as condições climáticas.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 352
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 454
+        },
+        {
+          "mes": "Março",
+          "valor": 379
+        },
+        {
+          "mes": "Abril",
+          "valor": 371
+        },
+        {
+          "mes": "Maio",
+          "valor": 494
+        },
+        {
+          "mes": "Junho",
+          "valor": 331
+        },
+        {
+          "mes": "Julho",
+          "valor": 471
+        },
+        {
+          "mes": "Agosto",
+          "valor": 447
+        },
+        {
+          "mes": "Setembro",
+          "valor": 448
+        },
+        {
+          "mes": "Outubro",
+          "valor": 344
+        },
+        {
+          "mes": "Novembro",
+          "valor": 373
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 457
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Janeiro",
+          "valor": 2674
+        },
+        {
+          "mes": "Março",
+          "valor": 2360
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2396
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2226
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2310
+        },
+        {
+          "mes": "Maio",
+          "valor": 2012
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2881
+        },
+        {
+          "mes": "Maio",
+          "valor": 2010
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2314
+        },
+        {
+          "mes": "Abril",
+          "valor": 2977
+        },
+        {
+          "mes": "Abril",
+          "valor": 2070
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2071
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "99%",
+      "proprietario": "SolaraCraft Technologies",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "LunaSolar Power Center",
+      "tempoVidaEstimado": "15 anos",
+      "certificacoes": [
+        "ISO 45001",
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 14001",
+        "ISO 45001"
+      ],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "90 hectares",
+      "garantiaEquipamentos": "17 anos",
+      "contratoEnergia": "Contrato de Manutenção e Operação",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 8,
+      "nome": "SolarisTech Generators",
+      "localizacao": "Travessa das Araras, 1515, Vitória, ES, Brasil",
+      "capacidade": "31 MW",
+      "status": "Testes em Andamento",
+      "latitude": 50.1224689,
+      "longitude": 27.506767,
+      "anoConstrucao": 2012,
+      "fabricantePaineis": "BYD Solar",
+      "descricao": "Poder nas Partículas de Luz: Utilizamos tecnologia de última geração para capturar cada partícula de luz solar, maximizando a produção de energia.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 455
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 336
+        },
+        {
+          "mes": "Março",
+          "valor": 443
+        },
+        {
+          "mes": "Abril",
+          "valor": 418
+        },
+        {
+          "mes": "Maio",
+          "valor": 354
+        },
+        {
+          "mes": "Junho",
+          "valor": 415
+        },
+        {
+          "mes": "Julho",
+          "valor": 456
+        },
+        {
+          "mes": "Agosto",
+          "valor": 492
+        },
+        {
+          "mes": "Setembro",
+          "valor": 421
+        },
+        {
+          "mes": "Outubro",
+          "valor": 394
+        },
+        {
+          "mes": "Novembro",
+          "valor": 396
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 369
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Dezembro",
+          "valor": 2037
+        },
+        {
+          "mes": "Junho",
+          "valor": 1978
+        },
+        {
+          "mes": "Abril",
+          "valor": 2672
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2349
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2229
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2701
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2350
+        },
+        {
+          "mes": "Abril",
+          "valor": 1840
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2828
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2174
+        },
+        {
+          "mes": "Abril",
+          "valor": 1855
+        },
+        {
+          "mes": "Julho",
+          "valor": 1856
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "89%",
+      "proprietario": "RadiantSun Systems",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "HelioNest Substation",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": [
+        "ISO 45001",
+        "ISO 9001",
+        "ISO 26000",
+        "ISO 9001",
+        "ISO 9001"
+      ],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "190 hectares",
+      "garantiaEquipamentos": "10 anos",
+      "contratoEnergia": "Contrato de Manutenção e Operação",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 9,
+      "nome": "Photon Harvest Energy",
+      "localizacao": "Alameda das Rosas, 1616, Aracaju, SE, Brasil",
+      "capacidade": "20 MW",
+      "status": "Em Construção",
+      "latitude": -31.3366412,
+      "longitude": -64.3060567,
+      "anoConstrucao": 2020,
+      "fabricantePaineis": "Upsolar",
+      "descricao": "Soluções Solares Inteligentes: Fornecemos sistemas de energia solar conectados à Internet das Coisas (IoT) para monitoramento e controle remoto eficientes.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 321
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 479
+        },
+        {
+          "mes": "Março",
+          "valor": 397
+        },
+        {
+          "mes": "Abril",
+          "valor": 359
+        },
+        {
+          "mes": "Maio",
+          "valor": 487
+        },
+        {
+          "mes": "Junho",
+          "valor": 497
+        },
+        {
+          "mes": "Julho",
+          "valor": 500
+        },
+        {
+          "mes": "Agosto",
+          "valor": 465
+        },
+        {
+          "mes": "Setembro",
+          "valor": 327
+        },
+        {
+          "mes": "Outubro",
+          "valor": 317
+        },
+        {
+          "mes": "Novembro",
+          "valor": 329
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 398
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Maio",
+          "valor": 1946
+        },
+        {
+          "mes": "Março",
+          "valor": 2410
+        },
+        {
+          "mes": "Julho",
+          "valor": 1846
+        },
+        {
+          "mes": "Junho",
+          "valor": 2868
+        },
+        {
+          "mes": "Junho",
+          "valor": 1934
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2100
+        },
+        {
+          "mes": "Março",
+          "valor": 2756
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2358
+        },
+        {
+          "mes": "Outubro",
+          "valor": 1842
+        },
+        {
+          "mes": "Outubro",
+          "valor": 1985
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2261
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2539
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "74%",
+      "proprietario": "EnergiWave Solutions",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "PhotonCore Substation",
+      "tempoVidaEstimado": "25 anos",
+      "certificacoes": ["ISO 26000", "ISO 45001", "ISO 9001"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "380 hectares",
+      "garantiaEquipamentos": "23 anos",
+      "contratoEnergia": "Contrato de Compra de Energia (Power Purchase Agreement - PPA)",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 10,
+      "nome": "SolarNova Ltd.",
+      "localizacao": "Praça dos Girassóis, 1717, Palmas, TO, Brasil",
+      "capacidade": "45 MW",
+      "status": "Desativada",
+      "latitude": 6.8080933,
+      "longitude": 125.1934512,
+      "anoConstrucao": 2015,
+      "fabricantePaineis": "Hanwha Q Cells",
+      "descricao": "Sempre Verde, Sempre Solar: Comprometidos com a inovação verde, fornecemos soluções solares para atender às crescentes demandas de energia sustentável.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 434
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 434
+        },
+        {
+          "mes": "Março",
+          "valor": 342
+        },
+        {
+          "mes": "Abril",
+          "valor": 338
+        },
+        {
+          "mes": "Maio",
+          "valor": 427
+        },
+        {
+          "mes": "Junho",
+          "valor": 348
+        },
+        {
+          "mes": "Julho",
+          "valor": 440
+        },
+        {
+          "mes": "Agosto",
+          "valor": 386
+        },
+        {
+          "mes": "Setembro",
+          "valor": 430
+        },
+        {
+          "mes": "Outubro",
+          "valor": 448
+        },
+        {
+          "mes": "Novembro",
+          "valor": 405
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 441
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Dezembro",
+          "valor": 2617
+        },
+        {
+          "mes": "Abril",
+          "valor": 2773
+        },
+        {
+          "mes": "Abril",
+          "valor": 2179
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2030
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2757
+        },
+        {
+          "mes": "Abril",
+          "valor": 2163
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1808
+        },
+        {
+          "mes": "Julho",
+          "valor": 2985
+        },
+        {
+          "mes": "Março",
+          "valor": 2727
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2046
+        },
+        {
+          "mes": "Julho",
+          "valor": 2129
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2483
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "87%",
+      "proprietario": "SolarVista Enterprises",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "RadiantGrid Energy Center",
+      "tempoVidaEstimado": "20 anos",
+      "certificacoes": [
+        "ISO 26000",
+        "ISO 26000",
+        "ISO 14001",
+        "ISO 14001",
+        "ISO 26000"
+      ],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "220 hectares",
+      "garantiaEquipamentos": "9 anos",
+      "contratoEnergia": "Contrato de Manutenção e Operação",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 11,
+      "nome": "RayTech Renewables",
+      "localizacao": "Rua das Pedras, 1818, Porto Velho, RO, Brasil",
+      "capacidade": "10 MW",
+      "status": "Em Construção",
+      "latitude": 28.866776,
+      "longitude": 121.1706959,
+      "anoConstrucao": 2016,
+      "fabricantePaineis": "Sharp Solar",
+      "descricao": "Potência no Solstício: Fornecemos sistemas de armazenamento de energia solar inteligentes, garantindo energia durante todo o ano, mesmo nos dias mais curtos.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 371
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 306
+        },
+        {
+          "mes": "Março",
+          "valor": 457
+        },
+        {
+          "mes": "Abril",
+          "valor": 461
+        },
+        {
+          "mes": "Maio",
+          "valor": 325
+        },
+        {
+          "mes": "Junho",
+          "valor": 324
+        },
+        {
+          "mes": "Julho",
+          "valor": 410
+        },
+        {
+          "mes": "Agosto",
+          "valor": 487
+        },
+        {
+          "mes": "Setembro",
+          "valor": 333
+        },
+        {
+          "mes": "Outubro",
+          "valor": 423
+        },
+        {
+          "mes": "Novembro",
+          "valor": 495
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 444
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Agosto",
+          "valor": 2523
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2873
+        },
+        {
+          "mes": "Julho",
+          "valor": 2698
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2304
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2194
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2457
+        },
+        {
+          "mes": "Junho",
+          "valor": 2224
+        },
+        {
+          "mes": "Abril",
+          "valor": 2243
+        },
+        {
+          "mes": "Maio",
+          "valor": 2368
+        },
+        {
+          "mes": "Maio",
+          "valor": 2186
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2227
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2734
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "94%",
+      "proprietario": "QuantumGlow Solar",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "ZenithSolar Power Hub",
+      "tempoVidaEstimado": "20 anos",
+      "certificacoes": ["ISO 50001", "ISO 26000", "ISO 26000"],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "130 hectares",
+      "garantiaEquipamentos": "9 anos",
+      "contratoEnergia": "Contrato de Certificados de Energia Renovável (REC)",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 12,
+      "nome": "SunnyHorizon Power",
+      "localizacao": "Avenida das Palmeiras, 1919, Campo Grande, MS, Brasil",
+      "capacidade": "36 MW",
+      "status": "Sob Recuperação",
+      "latitude": 37.7838437,
+      "longitude": 126.283172,
+      "anoConstrucao": 2009,
+      "fabricantePaineis": "JinkoSolar",
+      "descricao": "Luz Solar Renovada: Especializados em painéis solares de próxima geração, oferecemos uma revolução na eficiência energética e design elegante.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 483
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 395
+        },
+        {
+          "mes": "Março",
+          "valor": 492
+        },
+        {
+          "mes": "Abril",
+          "valor": 500
+        },
+        {
+          "mes": "Maio",
+          "valor": 380
+        },
+        {
+          "mes": "Junho",
+          "valor": 493
+        },
+        {
+          "mes": "Julho",
+          "valor": 313
+        },
+        {
+          "mes": "Agosto",
+          "valor": 452
+        },
+        {
+          "mes": "Setembro",
+          "valor": 361
+        },
+        {
+          "mes": "Outubro",
+          "valor": 447
+        },
+        {
+          "mes": "Novembro",
+          "valor": 380
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 493
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Agosto",
+          "valor": 2869
+        },
+        {
+          "mes": "Julho",
+          "valor": 2004
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2331
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2772
+        },
+        {
+          "mes": "Março",
+          "valor": 2899
+        },
+        {
+          "mes": "Abril",
+          "valor": 2458
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2708
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2950
+        },
+        {
+          "mes": "Abril",
+          "valor": 2802
+        },
+        {
+          "mes": "Março",
+          "valor": 1900
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2366
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2923
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "97%",
+      "proprietario": "GreenRay Power",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "",
+      "tempoVidaEstimado": "30 anos",
+      "certificacoes": ["ISO 45001", "ISO 26000"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "90 hectares",
+      "garantiaEquipamentos": "22 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 13,
+      "nome": "SolarFlare Energy",
+      "localizacao": "Travessa das Fontes, 2020, Boa Vista, RR, Brasil",
+      "capacidade": "25 MW",
+      "status": "Testes em Andamento",
+      "latitude": 40.894048,
+      "longitude": 44.1992229,
+      "anoConstrucao": 2001,
+      "fabricantePaineis": "ET Solar",
+      "descricao": "Raios de Sustentabilidade: Especializados em micro-redes solares, proporcionamos comunidades rurais acesso confiável à eletricidade limpa.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 491
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 406
+        },
+        {
+          "mes": "Março",
+          "valor": 425
+        },
+        {
+          "mes": "Abril",
+          "valor": 462
+        },
+        {
+          "mes": "Maio",
+          "valor": 419
+        },
+        {
+          "mes": "Junho",
+          "valor": 481
+        },
+        {
+          "mes": "Julho",
+          "valor": 477
+        },
+        {
+          "mes": "Agosto",
+          "valor": 436
+        },
+        {
+          "mes": "Setembro",
+          "valor": 481
+        },
+        {
+          "mes": "Outubro",
+          "valor": 393
+        },
+        {
+          "mes": "Novembro",
+          "valor": 314
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 421
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Abril",
+          "valor": 2811
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2409
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2580
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2664
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2132
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2607
+        },
+        {
+          "mes": "Março",
+          "valor": 2731
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2144
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2284
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2758
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2009
+        },
+        {
+          "mes": "Maio",
+          "valor": 2273
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "73%",
+      "proprietario": "NovaSolar Dynamics",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "SolarHub Substation",
+      "tempoVidaEstimado": "15 anos",
+      "certificacoes": ["ISO 50001", "ISO 26000"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "400 hectares",
+      "garantiaEquipamentos": "14 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 14,
+      "nome": "SunCraft Technologies",
+      "localizacao": "Alameda dos Pinheiros, 2121, Cuiabá, MT, Brasil",
+      "capacidade": "48 MW",
+      "status": "Problemas Técnicos",
+      "latitude": -7.0379245,
+      "longitude": 108.4187029,
+      "anoConstrucao": 2009,
+      "fabricantePaineis": "Kyocera Solar",
+      "descricao": "Pétalas de Energia Solar: Criamos estruturas solares inspiradas na natureza, otimizando a captura de luz solar como pétalas de uma flor.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 361
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 382
+        },
+        {
+          "mes": "Março",
+          "valor": 491
+        },
+        {
+          "mes": "Abril",
+          "valor": 360
+        },
+        {
+          "mes": "Maio",
+          "valor": 378
+        },
+        {
+          "mes": "Junho",
+          "valor": 366
+        },
+        {
+          "mes": "Julho",
+          "valor": 306
+        },
+        {
+          "mes": "Agosto",
+          "valor": 373
+        },
+        {
+          "mes": "Setembro",
+          "valor": 369
+        },
+        {
+          "mes": "Outubro",
+          "valor": 483
+        },
+        {
+          "mes": "Novembro",
+          "valor": 358
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 345
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Novembro",
+          "valor": 2799
+        },
+        {
+          "mes": "Junho",
+          "valor": 2556
+        },
+        {
+          "mes": "Agosto",
+          "valor": 1952
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2820
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2734
+        },
+        {
+          "mes": "Julho",
+          "valor": 1900
+        },
+        {
+          "mes": "Setembro",
+          "valor": 1904
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2171
+        },
+        {
+          "mes": "Maio",
+          "valor": 2884
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2140
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2106
+        },
+        {
+          "mes": "Junho",
+          "valor": 2246
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "80%",
+      "proprietario": "SolaFlare Innovations",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "LunaSolar Power Center",
+      "tempoVidaEstimado": "20 anos",
+      "certificacoes": ["ISO 14001", "ISO 14001", "ISO 50001", "ISO 26000"],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "190 hectares",
+      "garantiaEquipamentos": "9 anos",
+      "contratoEnergia": "Contrato de Certificados de Energia Renovável (REC)",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 15,
+      "nome": "EcoSun Power Co.",
+      "localizacao": "Praça do Bosque, 2222, Macapá, AP, Brasil",
+      "capacidade": "17 MW",
+      "status": "Problemas Técnicos",
+      "latitude": 26.319938,
+      "longitude": 113.810157,
+      "anoConstrucao": 2016,
+      "fabricantePaineis": "SolarTech Universal",
+      "descricao": "Energia sob a Lua: Especializados em sistemas de energia solar lunar, aproveitamos a luz refletida para fornecer eletricidade durante a noite.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 473
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 330
+        },
+        {
+          "mes": "Março",
+          "valor": 366
+        },
+        {
+          "mes": "Abril",
+          "valor": 356
+        },
+        {
+          "mes": "Maio",
+          "valor": 334
+        },
+        {
+          "mes": "Junho",
+          "valor": 489
+        },
+        {
+          "mes": "Julho",
+          "valor": 424
+        },
+        {
+          "mes": "Agosto",
+          "valor": 337
+        },
+        {
+          "mes": "Setembro",
+          "valor": 462
+        },
+        {
+          "mes": "Outubro",
+          "valor": 399
+        },
+        {
+          "mes": "Novembro",
+          "valor": 477
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 323
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Dezembro",
+          "valor": 1855
+        },
+        {
+          "mes": "Abril",
+          "valor": 2838
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2852
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2676
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2625
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2088
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2537
+        },
+        {
+          "mes": "Outubro",
+          "valor": 1840
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 1943
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2968
+        },
+        {
+          "mes": "Julho",
+          "valor": 2654
+        },
+        {
+          "mes": "Junho",
+          "valor": 1994
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "79%",
+      "proprietario": "SunSculpt Dynamics",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "SunSync Power Hub",
+      "tempoVidaEstimado": "30 anos",
+      "certificacoes": ["ISO 45001", "ISO 45001", "ISO 50001"],
+      "imagem": "https://i.ibb.co/WFDh8xX/1-existem-usinas-solares-no-brasil.jpg",
+      "areaTotal": "140 hectares",
+      "garantiaEquipamentos": "17 anos",
+      "contratoEnergia": "Contrato de Manutenção e Operação",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 16,
+      "nome": "SunBurst Renewables",
+      "localizacao": "Rua do Sol, 2323, São Luís, MA, Brasil",
+      "capacidade": "39 MW",
+      "status": "Operacional",
+      "latitude": 23.124134,
+      "longitude": 115.138892,
+      "anoConstrucao": 2016,
+      "fabricantePaineis": "LG Solar",
+      "descricao": "Sempre Verde, Sempre Solar: Comprometidos com a inovação verde, fornecemos soluções solares para atender às crescentes demandas de energia sustentável.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 323
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 469
+        },
+        {
+          "mes": "Março",
+          "valor": 493
+        },
+        {
+          "mes": "Abril",
+          "valor": 379
+        },
+        {
+          "mes": "Maio",
+          "valor": 349
+        },
+        {
+          "mes": "Junho",
+          "valor": 315
+        },
+        {
+          "mes": "Julho",
+          "valor": 433
+        },
+        {
+          "mes": "Agosto",
+          "valor": 325
+        },
+        {
+          "mes": "Setembro",
+          "valor": 430
+        },
+        {
+          "mes": "Outubro",
+          "valor": 429
+        },
+        {
+          "mes": "Novembro",
+          "valor": 341
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 369
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Outubro",
+          "valor": 2434
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2016
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2144
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2994
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2307
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2765
+        },
+        {
+          "mes": "Março",
+          "valor": 2771
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2021
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2852
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2332
+        },
+        {
+          "mes": "Junho",
+          "valor": 2535
+        },
+        {
+          "mes": "Julho",
+          "valor": 2141
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "83%",
+      "proprietario": "SolarPulse Innovations",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "HelioNest Substation",
+      "tempoVidaEstimado": "20 anos",
+      "certificacoes": ["ISO 14001"],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "190 hectares",
+      "garantiaEquipamentos": "23 anos",
+      "contratoEnergia": "Contrato de Compra de Energia (Power Purchase Agreement - PPA)",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 17,
+      "nome": "SolarHarmony Systems",
+      "localizacao": "Avenida das Águas, 2424, Rio Branco, AC, Brasil",
+      "capacidade": "22 MW",
+      "status": "Desativada",
+      "latitude": 34.4198488,
+      "longitude": 70.4729434,
+      "anoConstrucao": 2015,
+      "fabricantePaineis": "JinkoSolar",
+      "descricao": "Explosão de Energia Solar: Desenvolvemos soluções solares escaláveis para atender às necessidades crescentes de energia em escala global.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 383
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 376
+        },
+        {
+          "mes": "Março",
+          "valor": 376
+        },
+        {
+          "mes": "Abril",
+          "valor": 374
+        },
+        {
+          "mes": "Maio",
+          "valor": 474
+        },
+        {
+          "mes": "Junho",
+          "valor": 488
+        },
+        {
+          "mes": "Julho",
+          "valor": 386
+        },
+        {
+          "mes": "Agosto",
+          "valor": 393
+        },
+        {
+          "mes": "Setembro",
+          "valor": 486
+        },
+        {
+          "mes": "Outubro",
+          "valor": 455
+        },
+        {
+          "mes": "Novembro",
+          "valor": 464
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 328
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Agosto",
+          "valor": 2915
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2314
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2127
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2396
+        },
+        {
+          "mes": "Março",
+          "valor": 2374
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2661
+        },
+        {
+          "mes": "Abril",
+          "valor": 2074
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2011
+        },
+        {
+          "mes": "Julho",
+          "valor": 2942
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2279
+        },
+        {
+          "mes": "Março",
+          "valor": 1886
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2189
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "74%",
+      "proprietario": "EverGreen Solar Holdings",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "LuminarNode Substation",
+      "tempoVidaEstimado": "50 anos",
+      "certificacoes": ["ISO 26000", "ISO 14001", "ISO 14001", "ISO 9001"],
+      "imagem": "https://i.ibb.co/WFDh8xX/1-existem-usinas-solares-no-brasil.jpg",
+      "areaTotal": "300 hectares",
+      "garantiaEquipamentos": "21 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 18,
+      "nome": "PureSun Energy Solutions",
+      "localizacao": "Travessa dos Ventos, 2525, Campo Grande, MS, Brasil",
+      "capacidade": "12 MW",
+      "status": "Em Construção",
+      "latitude": 50.1380318,
+      "longitude": 13.9911619,
+      "anoConstrucao": 2019,
+      "fabricantePaineis": "Neo Solar Power",
+      "descricao": "Porto Seguro Sustentável: Oferecemos soluções solares para portos e marinas, combinando energia renovável com preservação do ambiente marinho.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 397
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 384
+        },
+        {
+          "mes": "Março",
+          "valor": 483
+        },
+        {
+          "mes": "Abril",
+          "valor": 483
+        },
+        {
+          "mes": "Maio",
+          "valor": 303
+        },
+        {
+          "mes": "Junho",
+          "valor": 360
+        },
+        {
+          "mes": "Julho",
+          "valor": 375
+        },
+        {
+          "mes": "Agosto",
+          "valor": 346
+        },
+        {
+          "mes": "Setembro",
+          "valor": 442
+        },
+        {
+          "mes": "Outubro",
+          "valor": 409
+        },
+        {
+          "mes": "Novembro",
+          "valor": 486
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 339
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Junho",
+          "valor": 2752
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1901
+        },
+        {
+          "mes": "Maio",
+          "valor": 2482
+        },
+        {
+          "mes": "Abril",
+          "valor": 2085
+        },
+        {
+          "mes": "Março",
+          "valor": 1866
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1890
+        },
+        {
+          "mes": "Abril",
+          "valor": 2352
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2631
+        },
+        {
+          "mes": "Abril",
+          "valor": 2720
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 1844
+        },
+        {
+          "mes": "Abril",
+          "valor": 2852
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2613
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "78%",
+      "proprietario": "LuminaSolar Solutions",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "QuantumLink Energy Center",
+      "tempoVidaEstimado": "50 anos",
+      "certificacoes": ["ISO 45001", "ISO 26000", "ISO 14001", "ISO 50001"],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "220 hectares",
+      "garantiaEquipamentos": "14 anos",
+      "contratoEnergia": "Contrato de Certificados de Energia Renovável (REC)",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 19,
+      "nome": "Infinite Rays Solar",
+      "localizacao": "Alameda dos Ipês, 2626, Manaus, AM, Brasil",
+      "capacidade": "33 MW",
+      "status": "Testes em Andamento",
+      "latitude": 34.995728,
+      "longitude": 104.655337,
+      "anoConstrucao": 2011,
+      "fabricantePaineis": "Ulica Solar",
+      "descricao": "Verve Solar: Criamos sistemas solares versáteis para aplicações industriais, comerciais e residenciais, proporcionando versatilidade energética.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 469
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 349
+        },
+        {
+          "mes": "Março",
+          "valor": 319
+        },
+        {
+          "mes": "Abril",
+          "valor": 312
+        },
+        {
+          "mes": "Maio",
+          "valor": 445
+        },
+        {
+          "mes": "Junho",
+          "valor": 413
+        },
+        {
+          "mes": "Julho",
+          "valor": 384
+        },
+        {
+          "mes": "Agosto",
+          "valor": 303
+        },
+        {
+          "mes": "Setembro",
+          "valor": 363
+        },
+        {
+          "mes": "Outubro",
+          "valor": 308
+        },
+        {
+          "mes": "Novembro",
+          "valor": 396
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 470
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Abril",
+          "valor": 2039
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2540
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2488
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2782
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2257
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2151
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2956
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 1999
+        },
+        {
+          "mes": "Março",
+          "valor": 2892
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2828
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2884
+        },
+        {
+          "mes": "Julho",
+          "valor": 2403
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "89%",
+      "proprietario": "StellarGlow Energy",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "",
+      "tempoVidaEstimado": "15 anos",
+      "certificacoes": ["ISO 14001", "ISO 14001", "ISO 26000"],
+      "imagem": "https://i.ibb.co/WFDh8xX/1-existem-usinas-solares-no-brasil.jpg",
+      "areaTotal": "200 hectares",
+      "garantiaEquipamentos": "15 anos",
+      "contratoEnergia": "Contrato de Certificados de Energia Renovável (REC)",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 20,
+      "nome": "SolarSync Power Inc.",
+      "localizacao": "Praça das Orquídeas, 2727, Porto Alegre, RS, Brasil",
+      "capacidade": "49 MW",
+      "status": "Testes em Andamento",
+      "latitude": 50.367737,
+      "longitude": 21.275513,
+      "anoConstrucao": 2006,
+      "fabricantePaineis": "BYD Solar",
+      "descricao": "Prime para a Geração Solar: Utilizando materiais de última geração, otimizamos a eficiência dos painéis solares para máximo rendimento.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 457
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 420
+        },
+        {
+          "mes": "Março",
+          "valor": 452
+        },
+        {
+          "mes": "Abril",
+          "valor": 434
+        },
+        {
+          "mes": "Maio",
+          "valor": 436
+        },
+        {
+          "mes": "Junho",
+          "valor": 356
+        },
+        {
+          "mes": "Julho",
+          "valor": 442
+        },
+        {
+          "mes": "Agosto",
+          "valor": 353
+        },
+        {
+          "mes": "Setembro",
+          "valor": 491
+        },
+        {
+          "mes": "Outubro",
+          "valor": 481
+        },
+        {
+          "mes": "Novembro",
+          "valor": 496
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 394
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Maio",
+          "valor": 2654
+        },
+        {
+          "mes": "Abril",
+          "valor": 2627
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2319
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 1933
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2922
+        },
+        {
+          "mes": "Julho",
+          "valor": 2658
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2866
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2643
+        },
+        {
+          "mes": "Julho",
+          "valor": 2876
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2644
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1914
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2548
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "95%",
+      "proprietario": "EcoHarvest Power",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "PhotonCore Substation",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": ["ISO 14001", "ISO 45001"],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "300 hectares",
+      "garantiaEquipamentos": "17 anos",
+      "contratoEnergia": "Contrato de Arrendamento de Terreno Solar",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 21,
+      "nome": "NovaSun Energy Ventures",
+      "localizacao": "Rua das Palmas, 2828, Belém, PA, Brasil",
+      "capacidade": "26 MW",
+      "status": "Em Construção",
+      "latitude": 32.9536923,
+      "longitude": -96.816156,
+      "anoConstrucao": 2009,
+      "fabricantePaineis": "Vikram Solar",
+      "descricao": "Inovações Nova na Energia Solar: Desenvolvemos tecnologias disruptivas para impulsionar a próxima geração de eficiência energética solar.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 482
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 474
+        },
+        {
+          "mes": "Março",
+          "valor": 329
+        },
+        {
+          "mes": "Abril",
+          "valor": 341
+        },
+        {
+          "mes": "Maio",
+          "valor": 328
+        },
+        {
+          "mes": "Junho",
+          "valor": 321
+        },
+        {
+          "mes": "Julho",
+          "valor": 413
+        },
+        {
+          "mes": "Agosto",
+          "valor": 451
+        },
+        {
+          "mes": "Setembro",
+          "valor": 386
+        },
+        {
+          "mes": "Outubro",
+          "valor": 316
+        },
+        {
+          "mes": "Novembro",
+          "valor": 348
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 389
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Fevereiro",
+          "valor": 1961
+        },
+        {
+          "mes": "Abril",
+          "valor": 2765
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2252
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2523
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2877
+        },
+        {
+          "mes": "Maio",
+          "valor": 2442
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2289
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2595
+        },
+        {
+          "mes": "Março",
+          "valor": 2719
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 1916
+        },
+        {
+          "mes": "Abril",
+          "valor": 1974
+        },
+        {
+          "mes": "Junho",
+          "valor": 2008
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "70%",
+      "proprietario": "SolarSynergy Innovations",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "NovaEra Power Node",
+      "tempoVidaEstimado": "45 anos",
+      "certificacoes": ["ISO 26000", "ISO 14001", "ISO 50001", "ISO 9001"],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "300 hectares",
+      "garantiaEquipamentos": "17 anos",
+      "contratoEnergia": "Contrato de Arrendamento de Terreno Solar",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 22,
+      "nome": "SunSculpt Technologies",
+      "localizacao": "Avenida da Lua, 2929, Teresina, PI, Brasil",
+      "capacidade": "15 MW",
+      "status": "Testes em Andamento",
+      "latitude": 36.402881,
+      "longitude": 113.38098,
+      "anoConstrucao": 2023,
+      "fabricantePaineis": "Heliene",
+      "descricao": "Inovações em Arte Solar: Transformamos espaços urbanos em galerias de energia, integrando arte pública com tecnologia solar.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 353
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 304
+        },
+        {
+          "mes": "Março",
+          "valor": 463
+        },
+        {
+          "mes": "Abril",
+          "valor": 305
+        },
+        {
+          "mes": "Maio",
+          "valor": 344
+        },
+        {
+          "mes": "Junho",
+          "valor": 356
+        },
+        {
+          "mes": "Julho",
+          "valor": 399
+        },
+        {
+          "mes": "Agosto",
+          "valor": 421
+        },
+        {
+          "mes": "Setembro",
+          "valor": 485
+        },
+        {
+          "mes": "Outubro",
+          "valor": 379
+        },
+        {
+          "mes": "Novembro",
+          "valor": 429
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 396
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Dezembro",
+          "valor": 2106
+        },
+        {
+          "mes": "Julho",
+          "valor": 2643
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2455
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2159
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2121
+        },
+        {
+          "mes": "Julho",
+          "valor": 2121
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 1984
+        },
+        {
+          "mes": "Junho",
+          "valor": 2570
+        },
+        {
+          "mes": "Junho",
+          "valor": 2082
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2750
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 1893
+        },
+        {
+          "mes": "Maio",
+          "valor": 1974
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "71%",
+      "proprietario": "SunCraft Dynamics",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "SolarPulse Hub",
+      "tempoVidaEstimado": "20 anos",
+      "certificacoes": ["ISO 50001", "ISO 50001"],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "220 hectares",
+      "garantiaEquipamentos": "14 anos",
+      "contratoEnergia": "Contrato de Arrendamento de Terreno Solar",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 23,
+      "nome": "Luminar Solar Co.",
+      "localizacao": "Travessa dos Jardins, 3030, Fortaleza, CE, Brasil",
+      "capacidade": "40 MW",
+      "status": "Em Construção",
+      "latitude": -20.4827446,
+      "longitude": -55.8108596,
+      "anoConstrucao": 2003,
+      "fabricantePaineis": "Ulica Solar",
+      "descricao": "Brilho Sustentável: Especialistas em iluminação pública solar, oferecemos soluções eficientes para cidades mais brilhantes e ecologicamente conscientes.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 329
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 430
+        },
+        {
+          "mes": "Março",
+          "valor": 428
+        },
+        {
+          "mes": "Abril",
+          "valor": 399
+        },
+        {
+          "mes": "Maio",
+          "valor": 378
+        },
+        {
+          "mes": "Junho",
+          "valor": 306
+        },
+        {
+          "mes": "Julho",
+          "valor": 300
+        },
+        {
+          "mes": "Agosto",
+          "valor": 481
+        },
+        {
+          "mes": "Setembro",
+          "valor": 444
+        },
+        {
+          "mes": "Outubro",
+          "valor": 389
+        },
+        {
+          "mes": "Novembro",
+          "valor": 390
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 345
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Fevereiro",
+          "valor": 2998
+        },
+        {
+          "mes": "Julho",
+          "valor": 1883
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2065
+        },
+        {
+          "mes": "Março",
+          "valor": 2221
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2499
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2513
+        },
+        {
+          "mes": "Março",
+          "valor": 2212
+        },
+        {
+          "mes": "Maio",
+          "valor": 2014
+        },
+        {
+          "mes": "Junho",
+          "valor": 1962
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2570
+        },
+        {
+          "mes": "Junho",
+          "valor": 2162
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2907
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "73%",
+      "proprietario": "EcoBeam Solar",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "EnergiSync Substation",
+      "tempoVidaEstimado": "25 anos",
+      "certificacoes": ["ISO 26000"],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "350 hectares",
+      "garantiaEquipamentos": "24 anos",
+      "contratoEnergia": "Contrato de Manutenção e Operação",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 24,
+      "nome": "SolarCrest Innovations",
+      "localizacao": "Alameda dos Rios, 3131, Cuiabá, MT, Brasil",
+      "capacidade": "29 MW",
+      "status": "Testes em Andamento",
+      "latitude": 40.590023,
+      "longitude": 19.6440066,
+      "anoConstrucao": 2002,
+      "fabricantePaineis": "Solar Frontier",
+      "descricao": "Esculpidos pela Luz: Criamos estruturas solares personalizadas que não apenas geram energia, mas também adornam o ambiente com elegância.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 330
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 309
+        },
+        {
+          "mes": "Março",
+          "valor": 366
+        },
+        {
+          "mes": "Abril",
+          "valor": 421
+        },
+        {
+          "mes": "Maio",
+          "valor": 301
+        },
+        {
+          "mes": "Junho",
+          "valor": 414
+        },
+        {
+          "mes": "Julho",
+          "valor": 314
+        },
+        {
+          "mes": "Agosto",
+          "valor": 419
+        },
+        {
+          "mes": "Setembro",
+          "valor": 417
+        },
+        {
+          "mes": "Outubro",
+          "valor": 451
+        },
+        {
+          "mes": "Novembro",
+          "valor": 453
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 462
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Março",
+          "valor": 1890
+        },
+        {
+          "mes": "Julho",
+          "valor": 2331
+        },
+        {
+          "mes": "Agosto",
+          "valor": 1891
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2880
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2801
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2109
+        },
+        {
+          "mes": "Junho",
+          "valor": 2933
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2340
+        },
+        {
+          "mes": "Junho",
+          "valor": 2871
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2992
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2625
+        },
+        {
+          "mes": "Julho",
+          "valor": 2528
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "79%",
+      "proprietario": "PhotonSphere Energy",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "SolarPulse Hub",
+      "tempoVidaEstimado": "50 anos",
+      "certificacoes": ["ISO 9001", "ISO 50001", "ISO 9001", "ISO 45001"],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "250 hectares",
+      "garantiaEquipamentos": "15 anos",
+      "contratoEnergia": "Contrato de Arrendamento de Terreno Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 25,
+      "nome": "SunMatrix Generators",
+      "localizacao": "Praça das Estações, 3232, Natal, RN, Brasil",
+      "capacidade": "8 MW",
+      "status": "Sob Recuperação",
+      "latitude": 9.1118027,
+      "longitude": 99.2065202,
+      "anoConstrucao": 2010,
+      "fabricantePaineis": "ET Solar",
+      "descricao": "Amanhecer Solar: Desenvolvemos soluções solares para regiões remotas, proporcionando eletricidade onde é mais necessária.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 417
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 446
+        },
+        {
+          "mes": "Março",
+          "valor": 444
+        },
+        {
+          "mes": "Abril",
+          "valor": 448
+        },
+        {
+          "mes": "Maio",
+          "valor": 346
+        },
+        {
+          "mes": "Junho",
+          "valor": 384
+        },
+        {
+          "mes": "Julho",
+          "valor": 452
+        },
+        {
+          "mes": "Agosto",
+          "valor": 380
+        },
+        {
+          "mes": "Setembro",
+          "valor": 320
+        },
+        {
+          "mes": "Outubro",
+          "valor": 485
+        },
+        {
+          "mes": "Novembro",
+          "valor": 429
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 369
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Maio",
+          "valor": 2515
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2833
+        },
+        {
+          "mes": "Outubro",
+          "valor": 1946
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2925
+        },
+        {
+          "mes": "Março",
+          "valor": 2315
+        },
+        {
+          "mes": "Junho",
+          "valor": 2698
+        },
+        {
+          "mes": "Março",
+          "valor": 2627
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2115
+        },
+        {
+          "mes": "Março",
+          "valor": 2317
+        },
+        {
+          "mes": "Março",
+          "valor": 2523
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2381
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2029
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "76%",
+      "proprietario": "ZenithSolar Ventures",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "LunaSolar Power Center",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": [
+        "ISO 9001",
+        "ISO 45001",
+        "ISO 45001",
+        "ISO 9001",
+        "ISO 26000"
+      ],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "190 hectares",
+      "garantiaEquipamentos": "23 anos",
+      "contratoEnergia": "Contrato de Compra de Energia (Power Purchase Agreement - PPA)",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 26,
+      "nome": "BlazeTech Renewables",
+      "localizacao": "Rua das Montanhas, 3333, Recife, PE, Brasil",
+      "capacidade": "21 MW",
+      "status": "Em Construção",
+      "latitude": 48.34016,
+      "longitude": 123.337533,
+      "anoConstrucao": 2000,
+      "fabricantePaineis": "Solon",
+      "descricao": "Harmonia Solar: Desenvolvemos sistemas de energia solar descentralizados para promover resiliência em comunidades locais.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 349
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 391
+        },
+        {
+          "mes": "Março",
+          "valor": 435
+        },
+        {
+          "mes": "Abril",
+          "valor": 408
+        },
+        {
+          "mes": "Maio",
+          "valor": 465
+        },
+        {
+          "mes": "Junho",
+          "valor": 313
+        },
+        {
+          "mes": "Julho",
+          "valor": 412
+        },
+        {
+          "mes": "Agosto",
+          "valor": 440
+        },
+        {
+          "mes": "Setembro",
+          "valor": 430
+        },
+        {
+          "mes": "Outubro",
+          "valor": 339
+        },
+        {
+          "mes": "Novembro",
+          "valor": 408
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 450
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Maio",
+          "valor": 1997
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2121
+        },
+        {
+          "mes": "Março",
+          "valor": 1863
+        },
+        {
+          "mes": "Maio",
+          "valor": 2457
+        },
+        {
+          "mes": "Junho",
+          "valor": 2367
+        },
+        {
+          "mes": "Junho",
+          "valor": 2842
+        },
+        {
+          "mes": "Junho",
+          "valor": 2703
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2540
+        },
+        {
+          "mes": "Março",
+          "valor": 2310
+        },
+        {
+          "mes": "Julho",
+          "valor": 2901
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2883
+        },
+        {
+          "mes": "Maio",
+          "valor": 2214
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "74%",
+      "proprietario": "SolsticeEra Power",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "SolarHub Substation",
+      "tempoVidaEstimado": "50 anos",
+      "certificacoes": ["ISO 9001", "ISO 50001", "ISO 45001", "ISO 45001"],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "380 hectares",
+      "garantiaEquipamentos": "18 anos",
+      "contratoEnergia": "Contrato de Certificados de Energia Renovável (REC)",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 27,
+      "nome": "Solstice Energy Solutions",
+      "localizacao": "Avenida dos Ventos, 3434, Aracaju, SE, Brasil",
+      "capacidade": "44 MW",
+      "status": "Operacional",
+      "latitude": 59.9344779,
+      "longitude": 30.3842343,
+      "anoConstrucao": 2005,
+      "fabricantePaineis": "Sharp Solar",
+      "descricao": "Zênite Sustentável: Especialistas em soluções solares para edifícios de grande altura, integramos energia renovável com eficiência arquitetônica.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 355
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 356
+        },
+        {
+          "mes": "Março",
+          "valor": 430
+        },
+        {
+          "mes": "Abril",
+          "valor": 469
+        },
+        {
+          "mes": "Maio",
+          "valor": 341
+        },
+        {
+          "mes": "Junho",
+          "valor": 445
+        },
+        {
+          "mes": "Julho",
+          "valor": 439
+        },
+        {
+          "mes": "Agosto",
+          "valor": 485
+        },
+        {
+          "mes": "Setembro",
+          "valor": 302
+        },
+        {
+          "mes": "Outubro",
+          "valor": 473
+        },
+        {
+          "mes": "Novembro",
+          "valor": 457
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 318
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Maio",
+          "valor": 2204
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2491
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2289
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2157
+        },
+        {
+          "mes": "Abril",
+          "valor": 2059
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2785
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2647
+        },
+        {
+          "mes": "Agosto",
+          "valor": 1880
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2409
+        },
+        {
+          "mes": "Junho",
+          "valor": 2344
+        },
+        {
+          "mes": "Setembro",
+          "valor": 1808
+        },
+        {
+          "mes": "Abril",
+          "valor": 2911
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "79%",
+      "proprietario": "SunVerve Technologies",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "SolaraLink Energy Node",
+      "tempoVidaEstimado": "25 anos",
+      "certificacoes": ["ISO 14001", "ISO 26000", "ISO 50001", "ISO 26000"],
+      "imagem": "https://i.ibb.co/Qpw6qHV/ABSOLAR-usinas.jpg",
+      "areaTotal": "320 hectares",
+      "garantiaEquipamentos": "23 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 28,
+      "nome": "SolarSphere Inc.",
+      "localizacao": "Travessa das Marés, 3535, João Pessoa, PB, Brasil",
+      "capacidade": "11 MW",
+      "status": "Testes em Andamento",
+      "latitude": 42.3728288,
+      "longitude": 47.3773853,
+      "anoConstrucao": 2005,
+      "fabricantePaineis": "Vikram Solar",
+      "descricao": "Energia em Alta Voltagem: Especializados em sistemas solares industriais, fornecemos soluções de alta potência para instalações de grande porte.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 383
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 460
+        },
+        {
+          "mes": "Março",
+          "valor": 366
+        },
+        {
+          "mes": "Abril",
+          "valor": 366
+        },
+        {
+          "mes": "Maio",
+          "valor": 347
+        },
+        {
+          "mes": "Junho",
+          "valor": 390
+        },
+        {
+          "mes": "Julho",
+          "valor": 310
+        },
+        {
+          "mes": "Agosto",
+          "valor": 398
+        },
+        {
+          "mes": "Setembro",
+          "valor": 362
+        },
+        {
+          "mes": "Outubro",
+          "valor": 467
+        },
+        {
+          "mes": "Novembro",
+          "valor": 488
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 330
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Outubro",
+          "valor": 2457
+        },
+        {
+          "mes": "Julho",
+          "valor": 1977
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2219
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2098
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2208
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2465
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2117
+        },
+        {
+          "mes": "Março",
+          "valor": 2927
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1958
+        },
+        {
+          "mes": "Setembro",
+          "valor": 1890
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2865
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2329
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "94%",
+      "proprietario": "EcoMatrix Solar Holdings",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "SunSync Power Hub",
+      "tempoVidaEstimado": "50 anos",
+      "certificacoes": ["ISO 26000", "ISO 45001"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "130 hectares",
+      "garantiaEquipamentos": "21 anos",
+      "contratoEnergia": "Contrato de Compra de Energia (Power Purchase Agreement - PPA)",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 29,
+      "nome": "SkyRadiance Power",
+      "localizacao": "Alameda das Dunas, 3636, Vitória, ES, Brasil",
+      "capacidade": "35 MW",
+      "status": "Operacional",
+      "latitude": 22.556499,
+      "longitude": 114.236875,
+      "anoConstrucao": 2016,
+      "fabricantePaineis": "Hanwha Q Cells",
+      "descricao": "Inovações em Solação: Desenvolvemos tecnologias avançadas para aumentar a eficiência e a durabilidade dos painéis solares.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 351
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 306
+        },
+        {
+          "mes": "Março",
+          "valor": 311
+        },
+        {
+          "mes": "Abril",
+          "valor": 374
+        },
+        {
+          "mes": "Maio",
+          "valor": 382
+        },
+        {
+          "mes": "Junho",
+          "valor": 432
+        },
+        {
+          "mes": "Julho",
+          "valor": 390
+        },
+        {
+          "mes": "Agosto",
+          "valor": 390
+        },
+        {
+          "mes": "Setembro",
+          "valor": 412
+        },
+        {
+          "mes": "Outubro",
+          "valor": 374
+        },
+        {
+          "mes": "Novembro",
+          "valor": 313
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 497
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Maio",
+          "valor": 2272
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2091
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 1909
+        },
+        {
+          "mes": "Junho",
+          "valor": 2235
+        },
+        {
+          "mes": "Julho",
+          "valor": 2301
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2903
+        },
+        {
+          "mes": "Agosto",
+          "valor": 1926
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2886
+        },
+        {
+          "mes": "Março",
+          "valor": 2477
+        },
+        {
+          "mes": "Junho",
+          "valor": 2721
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2850
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2885
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "94%",
+      "proprietario": "LunaSolar Dynamics",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "LunaSolar Power Center",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": [
+        "ISO 9001",
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 14001",
+        "ISO 14001"
+      ],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "350 hectares",
+      "garantiaEquipamentos": "9 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 30,
+      "nome": "Quantum Sun Systems",
+      "localizacao": "Praça do Cerrado, 3737, Belo Horizonte, MG, Brasil",
+      "capacidade": "19 MW",
+      "status": "Testes em Andamento",
+      "latitude": -2.9863917,
+      "longitude": 104.7321081,
+      "anoConstrucao": 2006,
+      "fabricantePaineis": "Eging PV",
+      "descricao": "Escultura Solar Dinâmica: Integramos arte pública e energia solar em esculturas impressionantes que geram eletricidade para a comunidade.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 491
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 395
+        },
+        {
+          "mes": "Março",
+          "valor": 410
+        },
+        {
+          "mes": "Abril",
+          "valor": 308
+        },
+        {
+          "mes": "Maio",
+          "valor": 397
+        },
+        {
+          "mes": "Junho",
+          "valor": 397
+        },
+        {
+          "mes": "Julho",
+          "valor": 426
+        },
+        {
+          "mes": "Agosto",
+          "valor": 493
+        },
+        {
+          "mes": "Setembro",
+          "valor": 489
+        },
+        {
+          "mes": "Outubro",
+          "valor": 431
+        },
+        {
+          "mes": "Novembro",
+          "valor": 457
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 466
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Junho",
+          "valor": 2309
+        },
+        {
+          "mes": "Julho",
+          "valor": 2341
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2056
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2400
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2733
+        },
+        {
+          "mes": "Maio",
+          "valor": 2225
+        },
+        {
+          "mes": "Junho",
+          "valor": 2962
+        },
+        {
+          "mes": "Maio",
+          "valor": 2181
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1970
+        },
+        {
+          "mes": "Julho",
+          "valor": 2644
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2934
+        },
+        {
+          "mes": "Março",
+          "valor": 1963
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "70%",
+      "proprietario": "SolarSculpture Enterprises",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "RadiantGrid Energy Center",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": [
+        "ISO 9001",
+        "ISO 45001",
+        "ISO 26000",
+        "ISO 26000",
+        "ISO 45001"
+      ],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "80 hectares",
+      "garantiaEquipamentos": "9 anos",
+      "contratoEnergia": "Contrato de Arrendamento de Terreno Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 31,
+      "nome": "RadiantEdge Solar",
+      "localizacao": "Rua das Neves, 3838, São Paulo, SP, Brasil",
+      "capacidade": "46 MW",
+      "status": "Sob Recuperação",
+      "latitude": 2.298952,
+      "longitude": 98.1120116,
+      "anoConstrucao": 2002,
+      "fabricantePaineis": "Heliene",
+      "descricao": "Poder nas Partículas de Luz: Utilizamos tecnologia de última geração para capturar cada partícula de luz solar, maximizando a produção de energia.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 314
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 313
+        },
+        {
+          "mes": "Março",
+          "valor": 493
+        },
+        {
+          "mes": "Abril",
+          "valor": 500
+        },
+        {
+          "mes": "Maio",
+          "valor": 352
+        },
+        {
+          "mes": "Junho",
+          "valor": 409
+        },
+        {
+          "mes": "Julho",
+          "valor": 498
+        },
+        {
+          "mes": "Agosto",
+          "valor": 456
+        },
+        {
+          "mes": "Setembro",
+          "valor": 402
+        },
+        {
+          "mes": "Outubro",
+          "valor": 317
+        },
+        {
+          "mes": "Novembro",
+          "valor": 439
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 404
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Janeiro",
+          "valor": 2337
+        },
+        {
+          "mes": "Março",
+          "valor": 2068
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2963
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2914
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2529
+        },
+        {
+          "mes": "Julho",
+          "valor": 1817
+        },
+        {
+          "mes": "Junho",
+          "valor": 2955
+        },
+        {
+          "mes": "Maio",
+          "valor": 2290
+        },
+        {
+          "mes": "Abril",
+          "valor": 2562
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2069
+        },
+        {
+          "mes": "Abril",
+          "valor": 1994
+        },
+        {
+          "mes": "Abril",
+          "valor": 1985
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "89%",
+      "proprietario": "Ecosolar Innovations",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "EcoFlare Substation",
+      "tempoVidaEstimado": "50 anos",
+      "certificacoes": ["ISO 14001", "ISO 14001", "ISO 9001", "ISO 9001"],
+      "imagem": "https://i.ibb.co/Qpw6qHV/ABSOLAR-usinas.jpg",
+      "areaTotal": "130 hectares",
+      "garantiaEquipamentos": "23 anos",
+      "contratoEnergia": "Contrato de Manutenção e Operação",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 32,
+      "nome": "SunVista Renewables",
+      "localizacao": "Avenida da Floresta, 3939, Salvador, BA, Brasil",
+      "capacidade": "7 MW",
+      "status": "Desativada",
+      "latitude": 40.8452606,
+      "longitude": 43.8346178,
+      "anoConstrucao": 2018,
+      "fabricantePaineis": "Suniva",
+      "descricao": "Inovações em Tela Solar: Transformamos edifícios em telas solares, combinando funcionalidade com estética arquitetônica.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 486
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 415
+        },
+        {
+          "mes": "Março",
+          "valor": 321
+        },
+        {
+          "mes": "Abril",
+          "valor": 349
+        },
+        {
+          "mes": "Maio",
+          "valor": 449
+        },
+        {
+          "mes": "Junho",
+          "valor": 457
+        },
+        {
+          "mes": "Julho",
+          "valor": 330
+        },
+        {
+          "mes": "Agosto",
+          "valor": 394
+        },
+        {
+          "mes": "Setembro",
+          "valor": 421
+        },
+        {
+          "mes": "Outubro",
+          "valor": 360
+        },
+        {
+          "mes": "Novembro",
+          "valor": 465
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 335
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Junho",
+          "valor": 2457
+        },
+        {
+          "mes": "Julho",
+          "valor": 1801
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2975
+        },
+        {
+          "mes": "Abril",
+          "valor": 2400
+        },
+        {
+          "mes": "Março",
+          "valor": 2864
+        },
+        {
+          "mes": "Abril",
+          "valor": 2226
+        },
+        {
+          "mes": "Julho",
+          "valor": 2163
+        },
+        {
+          "mes": "Abril",
+          "valor": 2917
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1974
+        },
+        {
+          "mes": "Maio",
+          "valor": 2356
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2155
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1907
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "82%",
+      "proprietario": "SunVortex Power",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "PhotonCore Substation",
+      "tempoVidaEstimado": "30 anos",
+      "certificacoes": ["ISO 26000", "ISO 9001"],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "150 hectares",
+      "garantiaEquipamentos": "23 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 33,
+      "nome": "SolarPulse Innovations",
+      "localizacao": "Travessa dos Coqueiros, 4040, Curitiba, PR, Brasil",
+      "capacidade": "38 MW",
+      "status": "Em Manutenção",
+      "latitude": 44.34072,
+      "longitude": 129.4828511,
+      "anoConstrucao": 2018,
+      "fabricantePaineis": "Solarcentury",
+      "descricao": "Dinâmica Solar Nova: Utilizamos materiais inovadores para criar painéis solares ultraleves e flexíveis, adaptáveis a diversas superfícies.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 375
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 392
+        },
+        {
+          "mes": "Março",
+          "valor": 480
+        },
+        {
+          "mes": "Abril",
+          "valor": 314
+        },
+        {
+          "mes": "Maio",
+          "valor": 457
+        },
+        {
+          "mes": "Junho",
+          "valor": 486
+        },
+        {
+          "mes": "Julho",
+          "valor": 300
+        },
+        {
+          "mes": "Agosto",
+          "valor": 348
+        },
+        {
+          "mes": "Setembro",
+          "valor": 334
+        },
+        {
+          "mes": "Outubro",
+          "valor": 355
+        },
+        {
+          "mes": "Novembro",
+          "valor": 485
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 333
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Novembro",
+          "valor": 2008
+        },
+        {
+          "mes": "Abril",
+          "valor": 2442
+        },
+        {
+          "mes": "Maio",
+          "valor": 2607
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2569
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2400
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2729
+        },
+        {
+          "mes": "Julho",
+          "valor": 2330
+        },
+        {
+          "mes": "Julho",
+          "valor": 2262
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2203
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2843
+        },
+        {
+          "mes": "Abril",
+          "valor": 1937
+        },
+        {
+          "mes": "Junho",
+          "valor": 1881
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "81%",
+      "proprietario": "BlueSky Solar Holdings",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "SunVista Energy Hub",
+      "tempoVidaEstimado": "45 anos",
+      "certificacoes": ["ISO 14001", "ISO 45001"],
+      "imagem": "https://i.ibb.co/Qpw6qHV/ABSOLAR-usinas.jpg",
+      "areaTotal": "120 hectares",
+      "garantiaEquipamentos": "13 anos",
+      "contratoEnergia": "Contrato de Manutenção e Operação",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 34,
+      "nome": "HelixSolar Technologies",
+      "localizacao": "Alameda das Árvores, 4141, Porto Velho, RO, Brasil",
+      "capacidade": "13 MW",
+      "status": "Testes em Andamento",
+      "latitude": 9.75,
+      "longitude": -11.65,
+      "anoConstrucao": 2022,
+      "fabricantePaineis": "ET Solar",
+      "descricao": "Sincronia Ecológica: Desenvolvemos soluções solares integradas para casas inteligentes, proporcionando eficiência energética e conectividade.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 499
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 477
+        },
+        {
+          "mes": "Março",
+          "valor": 421
+        },
+        {
+          "mes": "Abril",
+          "valor": 335
+        },
+        {
+          "mes": "Maio",
+          "valor": 431
+        },
+        {
+          "mes": "Junho",
+          "valor": 304
+        },
+        {
+          "mes": "Julho",
+          "valor": 398
+        },
+        {
+          "mes": "Agosto",
+          "valor": 420
+        },
+        {
+          "mes": "Setembro",
+          "valor": 468
+        },
+        {
+          "mes": "Outubro",
+          "valor": 322
+        },
+        {
+          "mes": "Novembro",
+          "valor": 311
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 432
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Abril",
+          "valor": 2235
+        },
+        {
+          "mes": "Setembro",
+          "valor": 1915
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2952
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2724
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2189
+        },
+        {
+          "mes": "Março",
+          "valor": 2336
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2752
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2488
+        },
+        {
+          "mes": "Julho",
+          "valor": 2859
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2584
+        },
+        {
+          "mes": "Julho",
+          "valor": 1854
+        },
+        {
+          "mes": "Março",
+          "valor": 2697
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "82%",
+      "proprietario": "RadiantHorizon Energy",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "LuminarNode Substation",
+      "tempoVidaEstimado": "20 anos",
+      "certificacoes": ["ISO 26000", "ISO 14001", "ISO 50001"],
+      "imagem": "https://i.ibb.co/Qpw6qHV/ABSOLAR-usinas.jpg",
+      "areaTotal": "230 hectares",
+      "garantiaEquipamentos": "18 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 35,
+      "nome": "EternalSun Energy",
+      "localizacao": "Praça do Mar, 4242, Campo Grande, MS, Brasil",
+      "capacidade": "30 MW",
+      "status": "Sob Recuperação",
+      "latitude": 15.5216056,
+      "longitude": 103.2201828,
+      "anoConstrucao": 2015,
+      "fabricantePaineis": "Heliene",
+      "descricao": "Inovações Luminosas: Criamos sistemas solares para iluminação pública inteligente, otimizando o consumo de energia em ambientes urbanos.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 374
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 316
+        },
+        {
+          "mes": "Março",
+          "valor": 391
+        },
+        {
+          "mes": "Abril",
+          "valor": 493
+        },
+        {
+          "mes": "Maio",
+          "valor": 363
+        },
+        {
+          "mes": "Junho",
+          "valor": 453
+        },
+        {
+          "mes": "Julho",
+          "valor": 489
+        },
+        {
+          "mes": "Agosto",
+          "valor": 380
+        },
+        {
+          "mes": "Setembro",
+          "valor": 388
+        },
+        {
+          "mes": "Outubro",
+          "valor": 332
+        },
+        {
+          "mes": "Novembro",
+          "valor": 394
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 455
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Dezembro",
+          "valor": 2103
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2374
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2496
+        },
+        {
+          "mes": "Março",
+          "valor": 2688
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2653
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2649
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2109
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2081
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2497
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2822
+        },
+        {
+          "mes": "Março",
+          "valor": 2230
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2157
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "75%",
+      "proprietario": "TerraSun Solutions",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "EnergiSync Substation",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": ["ISO 45001", "ISO 45001"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "130 hectares",
+      "garantiaEquipamentos": "14 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 36,
+      "nome": "ZenithSolar Power Co.",
+      "localizacao": "Rua da Serenidade, 4343, Maceió, AL, Brasil",
+      "capacidade": "9 MW",
+      "status": "Em Manutenção",
+      "latitude": 53.3347733,
+      "longitude": -6.2427004,
+      "anoConstrucao": 2018,
+      "fabricantePaineis": "Panasonic Solar",
+      "descricao": "Ninho Solar: Projetamos estruturas sustentáveis, como parques solares, para fornecer habitats para a geração de energia solar.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 363
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 429
+        },
+        {
+          "mes": "Março",
+          "valor": 400
+        },
+        {
+          "mes": "Abril",
+          "valor": 494
+        },
+        {
+          "mes": "Maio",
+          "valor": 445
+        },
+        {
+          "mes": "Junho",
+          "valor": 436
+        },
+        {
+          "mes": "Julho",
+          "valor": 317
+        },
+        {
+          "mes": "Agosto",
+          "valor": 356
+        },
+        {
+          "mes": "Setembro",
+          "valor": 446
+        },
+        {
+          "mes": "Outubro",
+          "valor": 480
+        },
+        {
+          "mes": "Novembro",
+          "valor": 434
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 342
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Outubro",
+          "valor": 2794
+        },
+        {
+          "mes": "Julho",
+          "valor": 2898
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2094
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1897
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2697
+        },
+        {
+          "mes": "Abril",
+          "valor": 1809
+        },
+        {
+          "mes": "Maio",
+          "valor": 2106
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2760
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2045
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2778
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 1820
+        },
+        {
+          "mes": "Maio",
+          "valor": 2117
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "73%",
+      "proprietario": "SunBurst Dynamics",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "SunSync Power Hub",
+      "tempoVidaEstimado": "50 anos",
+      "certificacoes": ["ISO 9001", "ISO 14001", "ISO 26000"],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "200 hectares",
+      "garantiaEquipamentos": "12 anos",
+      "contratoEnergia": "Contrato de Arrendamento de Terreno Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 37,
+      "nome": "PhotonCraft Innovations",
+      "localizacao": "Avenida do Ouro, 4444, Manaus, AM, Brasil",
+      "capacidade": "24 MW",
+      "status": "Sob Recuperação",
+      "latitude": 56.8802017,
+      "longitude": 52.2966875,
+      "anoConstrucao": 2014,
+      "fabricantePaineis": "Hyundai Solar",
+      "descricao": "Harpa Solar: Criamos estruturas solares em forma de harpa, capturando energia solar e transformando-a em melodias sustentáveis.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 448
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 482
+        },
+        {
+          "mes": "Março",
+          "valor": 432
+        },
+        {
+          "mes": "Abril",
+          "valor": 314
+        },
+        {
+          "mes": "Maio",
+          "valor": 423
+        },
+        {
+          "mes": "Junho",
+          "valor": 478
+        },
+        {
+          "mes": "Julho",
+          "valor": 332
+        },
+        {
+          "mes": "Agosto",
+          "valor": 387
+        },
+        {
+          "mes": "Setembro",
+          "valor": 392
+        },
+        {
+          "mes": "Outubro",
+          "valor": 312
+        },
+        {
+          "mes": "Novembro",
+          "valor": 321
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 417
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Novembro",
+          "valor": 2417
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2803
+        },
+        {
+          "mes": "Julho",
+          "valor": 1980
+        },
+        {
+          "mes": "Setembro",
+          "valor": 1836
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2078
+        },
+        {
+          "mes": "Junho",
+          "valor": 2246
+        },
+        {
+          "mes": "Julho",
+          "valor": 2141
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1926
+        },
+        {
+          "mes": "Julho",
+          "valor": 2548
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2340
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1815
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2941
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "95%",
+      "proprietario": "EcoHarbor Solar Ventures",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "LuminarNode Substation",
+      "tempoVidaEstimado": "20 anos",
+      "certificacoes": ["ISO 26000", "ISO 9001", "ISO 9001"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "250 hectares",
+      "garantiaEquipamentos": "9 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 38,
+      "nome": "SunRise Energy Solutions",
+      "localizacao": "Travessa da Cachoeira, 4545, São Luís, MA, Brasil",
+      "capacidade": "43 MW",
+      "status": "Em Construção",
+      "latitude": -6.9895044,
+      "longitude": 110.4329118,
+      "anoConstrucao": 2000,
+      "fabricantePaineis": "SolarTech Universal",
+      "descricao": "Energia em Espectro: Utilizamos painéis solares de múltiplos espectros para capturar energia não apenas da luz visível, mas também do infravermelho e ultravioleta.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 477
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 442
+        },
+        {
+          "mes": "Março",
+          "valor": 472
+        },
+        {
+          "mes": "Abril",
+          "valor": 409
+        },
+        {
+          "mes": "Maio",
+          "valor": 324
+        },
+        {
+          "mes": "Junho",
+          "valor": 460
+        },
+        {
+          "mes": "Julho",
+          "valor": 383
+        },
+        {
+          "mes": "Agosto",
+          "valor": 411
+        },
+        {
+          "mes": "Setembro",
+          "valor": 435
+        },
+        {
+          "mes": "Outubro",
+          "valor": 458
+        },
+        {
+          "mes": "Novembro",
+          "valor": 489
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 434
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Novembro",
+          "valor": 2933
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2548
+        },
+        {
+          "mes": "Abril",
+          "valor": 2810
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2769
+        },
+        {
+          "mes": "Maio",
+          "valor": 1840
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2809
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2815
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2442
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2421
+        },
+        {
+          "mes": "Setembro",
+          "valor": 1846
+        },
+        {
+          "mes": "Março",
+          "valor": 2360
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2941
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "92%",
+      "proprietario": "QuantumSolar Innovations",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": ["ISO 9001", "ISO 14001"],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "400 hectares",
+      "garantiaEquipamentos": "13 anos",
+      "contratoEnergia": "Contrato de Certificados de Energia Renovável (REC)",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 39,
+      "nome": "SolarBreeze Systems",
+      "localizacao": "Alameda dos Lagos, 4646, Cuiabá, MT, Brasil",
+      "capacidade": "6 MW",
+      "status": "Operacional",
+      "latitude": 2.9175611,
+      "longitude": 101.6821575,
+      "anoConstrucao": 2008,
+      "fabricantePaineis": "Solar Frontier",
+      "descricao": "Inovações na Brisa Solar: Criamos sistemas solares portáteis que geram energia a partir da energia cinética do vento, proporcionando soluções energéticas móveis.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 459
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 468
+        },
+        {
+          "mes": "Março",
+          "valor": 370
+        },
+        {
+          "mes": "Abril",
+          "valor": 334
+        },
+        {
+          "mes": "Maio",
+          "valor": 310
+        },
+        {
+          "mes": "Junho",
+          "valor": 407
+        },
+        {
+          "mes": "Julho",
+          "valor": 349
+        },
+        {
+          "mes": "Agosto",
+          "valor": 435
+        },
+        {
+          "mes": "Setembro",
+          "valor": 387
+        },
+        {
+          "mes": "Outubro",
+          "valor": 337
+        },
+        {
+          "mes": "Novembro",
+          "valor": 444
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 391
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Junho",
+          "valor": 2126
+        },
+        {
+          "mes": "Outubro",
+          "valor": 1988
+        },
+        {
+          "mes": "Abril",
+          "valor": 2559
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2665
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2665
+        },
+        {
+          "mes": "Março",
+          "valor": 1898
+        },
+        {
+          "mes": "Julho",
+          "valor": 1977
+        },
+        {
+          "mes": "Maio",
+          "valor": 2183
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2426
+        },
+        {
+          "mes": "Julho",
+          "valor": 2558
+        },
+        {
+          "mes": "Abril",
+          "valor": 2677
+        },
+        {
+          "mes": "Maio",
+          "valor": 2216
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "80%",
+      "proprietario": "HelioWave Power",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "EcoFlare Substation",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": ["ISO 50001", "ISO 45001"],
+      "imagem": "https://i.ibb.co/WFDh8xX/1-existem-usinas-solares-no-brasil.jpg",
+      "areaTotal": "200 hectares",
+      "garantiaEquipamentos": "17 anos",
+      "contratoEnergia": "Contrato de Manutenção e Operação",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 40,
+      "nome": "Luminex Solar",
+      "localizacao": "Praça das Colinas, 4747, Palmas, TO, Brasil",
+      "capacidade": "32 MW",
+      "status": "Sob Recuperação",
+      "latitude": -18.841761,
+      "longitude": 47.703579,
+      "anoConstrucao": 2022,
+      "fabricantePaineis": "JA Solar",
+      "descricao": "Artesanato Solar: Desenvolvemos painéis solares personalizados, incorporando designs artesanais exclusivos para atender às preferências estéticas.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 411
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 440
+        },
+        {
+          "mes": "Março",
+          "valor": 495
+        },
+        {
+          "mes": "Abril",
+          "valor": 341
+        },
+        {
+          "mes": "Maio",
+          "valor": 351
+        },
+        {
+          "mes": "Junho",
+          "valor": 429
+        },
+        {
+          "mes": "Julho",
+          "valor": 407
+        },
+        {
+          "mes": "Agosto",
+          "valor": 444
+        },
+        {
+          "mes": "Setembro",
+          "valor": 387
+        },
+        {
+          "mes": "Outubro",
+          "valor": 431
+        },
+        {
+          "mes": "Novembro",
+          "valor": 391
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 490
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Fevereiro",
+          "valor": 2117
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2374
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2517
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2993
+        },
+        {
+          "mes": "Março",
+          "valor": 2494
+        },
+        {
+          "mes": "Junho",
+          "valor": 2978
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2251
+        },
+        {
+          "mes": "Abril",
+          "valor": 2678
+        },
+        {
+          "mes": "Março",
+          "valor": 1994
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2880
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2869
+        },
+        {
+          "mes": "Abril",
+          "valor": 1981
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "89%",
+      "proprietario": "SunCanvas Enterprises",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "QuantumLink Energy Center",
+      "tempoVidaEstimado": "20 anos",
+      "certificacoes": ["ISO 9001", "ISO 9001", "ISO 45001", "ISO 50001"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "320 hectares",
+      "garantiaEquipamentos": "14 anos",
+      "contratoEnergia": "Contrato de Arrendamento de Terreno Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 41,
+      "nome": "SolarVortex Generators",
+      "localizacao": "Rua das Flores, 4848, Goiânia, GO, Brasil",
+      "capacidade": "47 MW",
+      "status": "Desativada",
+      "latitude": 55.6862651,
+      "longitude": 12.5886879,
+      "anoConstrucao": 2019,
+      "fabricantePaineis": "SunPower",
+      "descricao": "Dinâmica em Feixe Solar: Utilizamos tecnologia de concentração solar para gerar eletricidade em larga escala, maximizando a eficiência de cada feixe de luz.,",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 319
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 382
+        },
+        {
+          "mes": "Março",
+          "valor": 469
+        },
+        {
+          "mes": "Abril",
+          "valor": 396
+        },
+        {
+          "mes": "Maio",
+          "valor": 351
+        },
+        {
+          "mes": "Junho",
+          "valor": 449
+        },
+        {
+          "mes": "Julho",
+          "valor": 417
+        },
+        {
+          "mes": "Agosto",
+          "valor": 452
+        },
+        {
+          "mes": "Setembro",
+          "valor": 375
+        },
+        {
+          "mes": "Outubro",
+          "valor": 426
+        },
+        {
+          "mes": "Novembro",
+          "valor": 388
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 372
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Outubro",
+          "valor": 2552
+        },
+        {
+          "mes": "Agosto",
+          "valor": 1860
+        },
+        {
+          "mes": "Julho",
+          "valor": 2038
+        },
+        {
+          "mes": "Junho",
+          "valor": 1909
+        },
+        {
+          "mes": "Março",
+          "valor": 2882
+        },
+        {
+          "mes": "Junho",
+          "valor": 2214
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2252
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2170
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2043
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2734
+        },
+        {
+          "mes": "Junho",
+          "valor": 2017
+        },
+        {
+          "mes": "Junho",
+          "valor": 2075
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "77%",
+      "proprietario": "SolarSculpt Innovations",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "NovaEra Power Node",
+      "tempoVidaEstimado": "15 anos",
+      "certificacoes": ["ISO 50001"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "380 hectares",
+      "garantiaEquipamentos": "9 anos",
+      "contratoEnergia": "Contrato de Certificados de Energia Renovável (REC)",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 42,
+      "nome": "RayFusion Energy",
+      "localizacao": "Avenida das Pedras, 4949, Recife, PE, Brasil",
+      "capacidade": "16 MW",
+      "status": "Desativada",
+      "latitude": 26.641315,
+      "longitude": 100.222545,
+      "anoConstrucao": 2022,
+      "fabricantePaineis": "REC Solar",
+      "descricao": "at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 405
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 327
+        },
+        {
+          "mes": "Março",
+          "valor": 461
+        },
+        {
+          "mes": "Abril",
+          "valor": 343
+        },
+        {
+          "mes": "Maio",
+          "valor": 368
+        },
+        {
+          "mes": "Junho",
+          "valor": 350
+        },
+        {
+          "mes": "Julho",
+          "valor": 437
+        },
+        {
+          "mes": "Agosto",
+          "valor": 380
+        },
+        {
+          "mes": "Setembro",
+          "valor": 328
+        },
+        {
+          "mes": "Outubro",
+          "valor": 479
+        },
+        {
+          "mes": "Novembro",
+          "valor": 398
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 343
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Maio",
+          "valor": 2563
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2111
+        },
+        {
+          "mes": "Junho",
+          "valor": 1845
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2748
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2315
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1864
+        },
+        {
+          "mes": "Junho",
+          "valor": 2558
+        },
+        {
+          "mes": "Março",
+          "valor": 2351
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2130
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2713
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2474
+        },
+        {
+          "mes": "Julho",
+          "valor": 2257
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "84%",
+      "proprietario": "NovaBeam Solar Holdings",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "LunaSolar Power Center",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": ["ISO 14001", "ISO 9001", "ISO 26000", "ISO 9001"],
+      "imagem": "https://i.ibb.co/Qpw6qHV/ABSOLAR-usinas.jpg",
+      "areaTotal": "90 hectares",
+      "garantiaEquipamentos": "9 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 43,
+      "nome": "StarGlow Solar Co.",
+      "localizacao": "Travessa da Paz, 5050, Salvador, BA, Brasil",
+      "capacidade": "41 MW",
+      "status": "Em Manutenção",
+      "latitude": -6.9796136,
+      "longitude": 110.4269535,
+      "anoConstrucao": 2011,
+      "fabricantePaineis": "JinkoSolar",
+      "descricao": "dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 378
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 447
+        },
+        {
+          "mes": "Março",
+          "valor": 457
+        },
+        {
+          "mes": "Abril",
+          "valor": 480
+        },
+        {
+          "mes": "Maio",
+          "valor": 395
+        },
+        {
+          "mes": "Junho",
+          "valor": 460
+        },
+        {
+          "mes": "Julho",
+          "valor": 387
+        },
+        {
+          "mes": "Agosto",
+          "valor": 449
+        },
+        {
+          "mes": "Setembro",
+          "valor": 393
+        },
+        {
+          "mes": "Outubro",
+          "valor": 366
+        },
+        {
+          "mes": "Novembro",
+          "valor": 494
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 477
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Abril",
+          "valor": 2813
+        },
+        {
+          "mes": "Maio",
+          "valor": 2356
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2787
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2130
+        },
+        {
+          "mes": "Abril",
+          "valor": 2259
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2273
+        },
+        {
+          "mes": "Junho",
+          "valor": 1947
+        },
+        {
+          "mes": "Março",
+          "valor": 2078
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1875
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2393
+        },
+        {
+          "mes": "Agosto",
+          "valor": 1843
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 1884
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "80%",
+      "proprietario": "EnergiSync Technologies",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "EcoHarvest Substation",
+      "tempoVidaEstimado": "25 anos",
+      "certificacoes": [
+        "ISO 14001",
+        "ISO 45001",
+        "ISO 45001",
+        "ISO 50001",
+        "ISO 26000"
+      ],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "300 hectares",
+      "garantiaEquipamentos": "22 anos",
+      "contratoEnergia": "Contrato de Manutenção e Operação",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 44,
+      "nome": "SolarSymphony Technologies",
+      "localizacao": "Alameda do Sol, 5151, Florianópolis, SC, Brasil",
+      "capacidade": "27 MW",
+      "status": "Em Construção",
+      "latitude": 45.4942402,
+      "longitude": 18.0674023,
+      "anoConstrucao": 2000,
+      "fabricantePaineis": "ET Solar",
+      "descricao": "lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 339
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 347
+        },
+        {
+          "mes": "Março",
+          "valor": 384
+        },
+        {
+          "mes": "Abril",
+          "valor": 478
+        },
+        {
+          "mes": "Maio",
+          "valor": 323
+        },
+        {
+          "mes": "Junho",
+          "valor": 386
+        },
+        {
+          "mes": "Julho",
+          "valor": 423
+        },
+        {
+          "mes": "Agosto",
+          "valor": 315
+        },
+        {
+          "mes": "Setembro",
+          "valor": 332
+        },
+        {
+          "mes": "Outubro",
+          "valor": 376
+        },
+        {
+          "mes": "Novembro",
+          "valor": 482
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 480
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Dezembro",
+          "valor": 2200
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2496
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2093
+        },
+        {
+          "mes": "Abril",
+          "valor": 1828
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1839
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2910
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2617
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2921
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2993
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2755
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2349
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2761
+        }
+      ],
+      "anoUltimaManutencao": 2023,
+      "eficienciaPaineis": "95%",
+      "proprietario": "SunBreeze Innovations",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "SunSync Power Hub",
+      "tempoVidaEstimado": "25 anos",
+      "certificacoes": ["ISO 50001", "ISO 45001", "ISO 14001"],
+      "imagem": "https://i.ibb.co/VVK0yzD/usinas-solares.png",
+      "areaTotal": "230 hectares",
+      "garantiaEquipamentos": "16 anos",
+      "contratoEnergia": "Contrato de Arrendamento de Terreno Solar",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 45,
+      "nome": "SunQuake Renewables",
+      "localizacao": "Praça das Águas, 5252, Belo Horizonte, MG, Brasil",
+      "capacidade": "5 MW",
+      "status": "Desativada",
+      "latitude": 57.0473862,
+      "longitude": 65.7110972,
+      "anoConstrucao": 2011,
+      "fabricantePaineis": "BYD Solar",
+      "descricao": "sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 419
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 308
+        },
+        {
+          "mes": "Março",
+          "valor": 405
+        },
+        {
+          "mes": "Abril",
+          "valor": 309
+        },
+        {
+          "mes": "Maio",
+          "valor": 336
+        },
+        {
+          "mes": "Junho",
+          "valor": 480
+        },
+        {
+          "mes": "Julho",
+          "valor": 407
+        },
+        {
+          "mes": "Agosto",
+          "valor": 412
+        },
+        {
+          "mes": "Setembro",
+          "valor": 349
+        },
+        {
+          "mes": "Outubro",
+          "valor": 410
+        },
+        {
+          "mes": "Novembro",
+          "valor": 424
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 326
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Setembro",
+          "valor": 1819
+        },
+        {
+          "mes": "Novembro",
+          "valor": 1897
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2858
+        },
+        {
+          "mes": "Junho",
+          "valor": 2272
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2245
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2309
+        },
+        {
+          "mes": "Maio",
+          "valor": 2028
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2438
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2713
+        },
+        {
+          "mes": "Maio",
+          "valor": 2553
+        },
+        {
+          "mes": "Abril",
+          "valor": 2297
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2815
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "99%",
+      "proprietario": "SolarSculpture Dynamics",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "SolarHub Substation",
+      "tempoVidaEstimado": "15 anos",
+      "certificacoes": ["ISO 26000", "ISO 26000"],
+      "imagem": "https://i.ibb.co/Qpw6qHV/ABSOLAR-usinas.jpg",
+      "areaTotal": "140 hectares",
+      "garantiaEquipamentos": "22 anos",
+      "contratoEnergia": "Contrato de Certificados de Energia Renovável (REC)",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 46,
+      "nome": "PureRay Energy Solutions",
+      "localizacao": "Rua do Cerrado, 5353, Porto Alegre, RS, Brasil",
+      "capacidade": "34 MW",
+      "status": "Sob Recuperação",
+      "latitude": 19.1780491,
+      "longitude": -96.1288426,
+      "anoConstrucao": 2018,
+      "fabricantePaineis": "Vikram Solar",
+      "descricao": "feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 473
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 500
+        },
+        {
+          "mes": "Março",
+          "valor": 379
+        },
+        {
+          "mes": "Abril",
+          "valor": 358
+        },
+        {
+          "mes": "Maio",
+          "valor": 438
+        },
+        {
+          "mes": "Junho",
+          "valor": 378
+        },
+        {
+          "mes": "Julho",
+          "valor": 408
+        },
+        {
+          "mes": "Agosto",
+          "valor": 428
+        },
+        {
+          "mes": "Setembro",
+          "valor": 386
+        },
+        {
+          "mes": "Outubro",
+          "valor": 493
+        },
+        {
+          "mes": "Novembro",
+          "valor": 353
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 461
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Março",
+          "valor": 2627
+        },
+        {
+          "mes": "Abril",
+          "valor": 1814
+        },
+        {
+          "mes": "Outubro",
+          "valor": 1914
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2186
+        },
+        {
+          "mes": "Abril",
+          "valor": 1939
+        },
+        {
+          "mes": "Abril",
+          "valor": 2073
+        },
+        {
+          "mes": "Março",
+          "valor": 2945
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2900
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2661
+        },
+        {
+          "mes": "Março",
+          "valor": 2977
+        },
+        {
+          "mes": "Junho",
+          "valor": 1924
+        },
+        {
+          "mes": "Março",
+          "valor": 2145
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "86%",
+      "proprietario": "EcoPulse Solar",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "SunSync Power Hub",
+      "tempoVidaEstimado": "25 anos",
+      "certificacoes": ["ISO 9001", "ISO 14001", "ISO 45001", "ISO 9001"],
+      "imagem": "https://i.ibb.co/ZzC1k6j/usina-solar.webp",
+      "areaTotal": "350 hectares",
+      "garantiaEquipamentos": "17 anos",
+      "contratoEnergia": "Contrato de Certificados de Energia Renovável (REC)",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 47,
+      "nome": "InfiniteGlow Solar",
+      "localizacao": "Avenida dos Girassóis, 5454, Fortaleza, CE, Brasil",
+      "capacidade": "2 MW",
+      "status": "Em Manutenção",
+      "latitude": 7.3293411,
+      "longitude": 100.3385624,
+      "anoConstrucao": 2001,
+      "fabricantePaineis": "Kyocera Solar",
+      "descricao": "cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 464
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 310
+        },
+        {
+          "mes": "Março",
+          "valor": 333
+        },
+        {
+          "mes": "Abril",
+          "valor": 493
+        },
+        {
+          "mes": "Maio",
+          "valor": 381
+        },
+        {
+          "mes": "Junho",
+          "valor": 493
+        },
+        {
+          "mes": "Julho",
+          "valor": 414
+        },
+        {
+          "mes": "Agosto",
+          "valor": 411
+        },
+        {
+          "mes": "Setembro",
+          "valor": 370
+        },
+        {
+          "mes": "Outubro",
+          "valor": 472
+        },
+        {
+          "mes": "Novembro",
+          "valor": 305
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 301
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Abril",
+          "valor": 2484
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2154
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2173
+        },
+        {
+          "mes": "Março",
+          "valor": 2287
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2466
+        },
+        {
+          "mes": "Março",
+          "valor": 1901
+        },
+        {
+          "mes": "Setembro",
+          "valor": 1825
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2791
+        },
+        {
+          "mes": "Agosto",
+          "valor": 1900
+        },
+        {
+          "mes": "Maio",
+          "valor": 2118
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2312
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2249
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "73%",
+      "proprietario": "SunQuotient Energy",
+      "tipoConexao": "Interconexão Distribuída",
+      "subestacao": "TerraSun Power Node",
+      "tempoVidaEstimado": "20 anos",
+      "certificacoes": ["ISO 9001", "ISO 14001", "ISO 9001"],
+      "imagem": "https://i.ibb.co/WFDh8xX/1-existem-usinas-solares-no-brasil.jpg",
+      "areaTotal": "190 hectares",
+      "garantiaEquipamentos": "10 anos",
+      "contratoEnergia": "Contrato de Certificados de Energia Renovável (REC)",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 48,
+      "nome": "SolarFlex Power Inc.",
+      "localizacao": "Travessa das Palmeiras, 5555, Teresina, PI, Brasil",
+      "capacidade": "3 MW",
+      "status": "Desativada",
+      "latitude": 26.6416058,
+      "longitude": 67.9933369,
+      "anoConstrucao": 2005,
+      "fabricantePaineis": "First Solar",
+      "descricao": "ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 424
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 418
+        },
+        {
+          "mes": "Março",
+          "valor": 326
+        },
+        {
+          "mes": "Abril",
+          "valor": 441
+        },
+        {
+          "mes": "Maio",
+          "valor": 473
+        },
+        {
+          "mes": "Junho",
+          "valor": 467
+        },
+        {
+          "mes": "Julho",
+          "valor": 308
+        },
+        {
+          "mes": "Agosto",
+          "valor": 342
+        },
+        {
+          "mes": "Setembro",
+          "valor": 331
+        },
+        {
+          "mes": "Outubro",
+          "valor": 432
+        },
+        {
+          "mes": "Novembro",
+          "valor": 399
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 344
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Fevereiro",
+          "valor": 2202
+        },
+        {
+          "mes": "Março",
+          "valor": 2378
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2130
+        },
+        {
+          "mes": "Junho",
+          "valor": 1804
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2036
+        },
+        {
+          "mes": "Maio",
+          "valor": 2774
+        },
+        {
+          "mes": "Junho",
+          "valor": 2052
+        },
+        {
+          "mes": "Agosto",
+          "valor": 2871
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 1918
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2914
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2800
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2054
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "95%",
+      "proprietario": "SolaVation Ventures",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "SunSync Power Hub",
+      "tempoVidaEstimado": "25 anos",
+      "certificacoes": ["ISO 45001", "ISO 50001"],
+      "imagem": "https://i.ibb.co/Qpw6qHV/ABSOLAR-usinas.jpg",
+      "areaTotal": "380 hectares",
+      "garantiaEquipamentos": "23 anos",
+      "contratoEnergia": "Contrato de Compra de Energia (Power Purchase Agreement - PPA)",
+      "monitoramentoRemoto": true
+    },
+    {
+      "id": 49,
+      "nome": "NovaLume Energy Ventures",
+      "localizacao": "Alameda do Rio, 5656, Manaus, AM, Brasil",
+      "capacidade": "4 MW",
+      "status": "Problemas Técnicos",
+      "latitude": -8.1132729,
+      "longitude": -35.0169621,
+      "anoConstrucao": 2011,
+      "fabricantePaineis": "First Solar",
+      "descricao": "massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 469
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 330
+        },
+        {
+          "mes": "Março",
+          "valor": 471
+        },
+        {
+          "mes": "Abril",
+          "valor": 494
+        },
+        {
+          "mes": "Maio",
+          "valor": 437
+        },
+        {
+          "mes": "Junho",
+          "valor": 489
+        },
+        {
+          "mes": "Julho",
+          "valor": 363
+        },
+        {
+          "mes": "Agosto",
+          "valor": 311
+        },
+        {
+          "mes": "Setembro",
+          "valor": 457
+        },
+        {
+          "mes": "Outubro",
+          "valor": 436
+        },
+        {
+          "mes": "Novembro",
+          "valor": 445
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 370
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Junho",
+          "valor": 2751
+        },
+        {
+          "mes": "Julho",
+          "valor": 2109
+        },
+        {
+          "mes": "Abril",
+          "valor": 2454
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 2639
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 1901
+        },
+        {
+          "mes": "Março",
+          "valor": 2565
+        },
+        {
+          "mes": "Julho",
+          "valor": 2477
+        },
+        {
+          "mes": "Setembro",
+          "valor": 2071
+        },
+        {
+          "mes": "Julho",
+          "valor": 2966
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2221
+        },
+        {
+          "mes": "Maio",
+          "valor": 2625
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2554
+        }
+      ],
+      "anoUltimaManutencao": 2022,
+      "eficienciaPaineis": "91%",
+      "proprietario": "EcoCraft Solar Holdings",
+      "tipoConexao": "Conexão de Armazenamento Energético",
+      "subestacao": "EnergiSync Substation",
+      "tempoVidaEstimado": "45 anos",
+      "certificacoes": [
+        "ISO 9001",
+        "ISO 45001",
+        "ISO 50001",
+        "ISO 14001",
+        "ISO 26000"
+      ],
+      "imagem": "https://i.ibb.co/6vZpW0K/photovoltaic-gb97f99409-1920.jpg",
+      "areaTotal": "140 hectares",
+      "garantiaEquipamentos": "15 anos",
+      "contratoEnergia": "Contrato de Compra de Energia (Power Purchase Agreement - PPA)",
+      "monitoramentoRemoto": false
+    },
+    {
+      "id": 50,
+      "nome": "SunBurst Dynamics",
+      "localizacao": "Praça das Estrelas, 5757, Campo Grande, MS, Brasil",
+      "capacidade": "1 MW",
+      "status": "Problemas Técnicos",
+      "latitude": 59.9191279,
+      "longitude": 11.369756,
+      "anoConstrucao": 2017,
+      "fabricantePaineis": "Silfab Solar",
+      "descricao": "in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est",
+      "producao": [
+        {
+          "mes": "Janeiro",
+          "valor": 445
+        },
+        {
+          "mes": "Fevereiro",
+          "valor": 472
+        },
+        {
+          "mes": "Março",
+          "valor": 344
+        },
+        {
+          "mes": "Abril",
+          "valor": 306
+        },
+        {
+          "mes": "Maio",
+          "valor": 395
+        },
+        {
+          "mes": "Junho",
+          "valor": 434
+        },
+        {
+          "mes": "Julho",
+          "valor": 327
+        },
+        {
+          "mes": "Agosto",
+          "valor": 452
+        },
+        {
+          "mes": "Setembro",
+          "valor": 462
+        },
+        {
+          "mes": "Outubro",
+          "valor": 301
+        },
+        {
+          "mes": "Novembro",
+          "valor": 420
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 495
+        }
+      ],
+      "irradiacao": [
+        {
+          "mes": "Julho",
+          "valor": 2463
+        },
+        {
+          "mes": "Junho",
+          "valor": 2013
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2338
+        },
+        {
+          "mes": "Junho",
+          "valor": 1987
+        },
+        {
+          "mes": "Outubro",
+          "valor": 2001
+        },
+        {
+          "mes": "Janeiro",
+          "valor": 2484
+        },
+        {
+          "mes": "Novembro",
+          "valor": 2020
+        },
+        {
+          "mes": "Março",
+          "valor": 2979
+        },
+        {
+          "mes": "Maio",
+          "valor": 2053
+        },
+        {
+          "mes": "Março",
+          "valor": 2163
+        },
+        {
+          "mes": "Dezembro",
+          "valor": 2834
+        },
+        {
+          "mes": "Março",
+          "valor": 2839
+        }
+      ],
+      "anoUltimaManutencao": 2021,
+      "eficienciaPaineis": "71%",
+      "proprietario": "SolarMatrix Innovations",
+      "tipoConexao": "Conexão Off-Grid",
+      "subestacao": "QuantumLink Energy Center",
+      "tempoVidaEstimado": "40 anos",
+      "certificacoes": ["ISO 50001"],
+      "imagem": "https://i.ibb.co/WFDh8xX/1-existem-usinas-solares-no-brasil.jpg",
+      "areaTotal": "90 hectares",
+      "garantiaEquipamentos": "21 anos",
+      "contratoEnergia": "Contrato de Desenvolvimento de Projeto Solar",
+      "monitoramentoRemoto": false
+    }
+  ]
+}
