@@ -21,8 +21,8 @@ export interface IPowerPlant {
   anoConstrucao: number;
   fabricantePaineis: string;
   descricao: string;
-  producao: IProduction[];
-  irradiacao: Irradiation[];
+  producao: IChartValue[];
+  irradiacao: IChartValue[];
   anoUltimaManutencao: number;
   eficienciaPaineis: string;
   proprietario: string;
@@ -38,12 +38,7 @@ export interface IPowerPlant {
   monitoramentoRemoto: boolean;
 }
 
-export interface IProduction {
-  mes: string;
-  valor: number;
-}
-
-export interface Irradiation {
+export interface IChartValue {
   mes: string;
   valor: number;
 }

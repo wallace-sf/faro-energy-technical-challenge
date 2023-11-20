@@ -1,3 +1,5 @@
+import { type IPowerPlant } from '~/globalTypes';
+
 export interface IPowerPlantCardProps {
   id: string | number;
   title: string;
@@ -6,4 +8,5 @@ export interface IPowerPlantCardProps {
   location: string;
   capacity: string;
   image?: string;
+  item: IPowerPlant;
 }

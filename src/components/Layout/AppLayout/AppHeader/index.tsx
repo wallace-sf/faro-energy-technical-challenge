@@ -66,7 +66,12 @@ export const AppHeader: FC = () => {
             </button>
 
             <Link to="/" className="flex ml-2 md:mr-24">
-              <img src={Logo} className="h-8 mr-3" alt="Faro Enery Logo" />
+              <img
+                src={Logo}
+                className="h-8 mr-3"
+                alt="Faro Enery Logo"
+                loading="lazy"
+              />
             </Link>
           </div>
           <div className="flex items-center">
