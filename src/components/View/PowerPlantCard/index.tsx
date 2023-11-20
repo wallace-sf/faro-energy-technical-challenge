@@ -13,18 +13,15 @@ export const PowerPlantCard: FC<IPowerPlantCardProps> = ({
   status = '',
   location = '',
   capacity = '',
+  image = '',
 }) => {
   const statusVariant = useMemo(() => getVariantByStatus(status), [status]);
 
   return (
     <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-      <a href="#">
-        <img
-          className="rounded-t-lg"
-          src="https://i.imgur.com/8BPlNq0.jpeg"
-          alt={title}
-        />
-      </a>
+      <div className="min-h-[210px]">
+        <img className="rounded-t-lg" src={image} alt={title} />
+      </div>
       <div className="p-5">
         <Link to="#">
           <h5
@@ -43,11 +40,11 @@ export const PowerPlantCard: FC<IPowerPlantCardProps> = ({
             <span className="break-words">{capacity}</span>
           </div>
         </div>
-        <div className="flex items-center mb-5">
-          <span className="inline-block mr-2">
+        <div className="flex items-start mb-5">
+          <span className="inline-block mr-2 pt-[2px]">
             <MapMarkerIcon className="w-5 h-5 text-red-500" />
           </span>
-          <span className="line-clamp-2" title={location}>
+          <span className="inline-block line-clamp-2 h-[48px]" title={location}>
             {location}
           </span>
         </div>

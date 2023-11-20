@@ -5,4 +5,5 @@ export interface IPowerPlantCardProps {
   statusDescription?: string;
   location: string;
   capacity: string;
+  image?: string;
 }
