@@ -14,6 +14,12 @@ export default {
         body: '#64748B',
         bodydark: '#AEB7C0',
         stroke: '#E2E8F0',
+      },
+      maxWidth: {
+        '1/2': '50%',
+      },
+      screens: {
+        '4k': '2560px',
       }
     },
   },

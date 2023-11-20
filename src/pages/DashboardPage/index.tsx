@@ -93,8 +93,8 @@ const DashboardPage: FC = () => {
           <section className="mb-10 rounded-lg py-5 px-4">
             <div className="-mx-4 flex flex-wrap items-center justify-between">
               <div className="px-4 w-full">
-                <div className="flex justify-between items-center sm:flex w-full">
-                  <div className="mb-4 mr-8 inline-flex items-center sm:block md:mb-0 lg:mr-5 lg:inline-flex xl:mr-8">
+                <div className="sm:flex sm:justify-between sm:items-center w-full">
+                  <div className="mb-4 mr-8 inline-flex items-center md:mb-0 lg:mr-5 xl:mr-8">
                     <label
                       htmlFor="brand"
                       className="mr-4 text-base font-medium text-dark"
@@ -118,7 +118,7 @@ const DashboardPage: FC = () => {
           </section>
 
           <PowerPlantList data={data} />
-          <div className="flex flex-wrap justify-end mx-4">
+          <div className="flex flex-wrap justify-center md:justify-end mx-4">
             <Pagination
               forcePage={page - 1}
               pageCount={totalPages}

@@ -32,7 +32,9 @@ export const PowerPlantCard: FC<IPowerPlantCardProps> = ({
           </h5>
         </Link>
         <div className="flex items-center mb-3">
-          <Badge variant={statusVariant}>{status}</Badge>
+          <Badge variant={statusVariant} className="inline-block line-clamp-1">
+            {status}
+          </Badge>
           <div className="flex items-center">
             <span className="inline-block mr-2">
               <ThunderBoltIcon className="w-5 h-5 text-blue-500" />
