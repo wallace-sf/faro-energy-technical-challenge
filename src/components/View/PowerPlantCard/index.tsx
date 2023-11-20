@@ -2,10 +2,11 @@ import { useMemo, type FC } from 'react';
 
 import { Link } from 'react-router-dom';
 
+import { getVariantByStatus } from '~helpers';
+
 import { ArrowIcon, MapMarkerIcon, ThunderBoltIcon } from '../../Icons';
 import { Badge } from '../Badge';
 import { type IPowerPlantCardProps } from './PowerPlantCardTypes';
-import { getVariantByStatus } from './PowerPlantCardUtils';
 
 export const PowerPlantCard: FC<IPowerPlantCardProps> = ({
   id,
@@ -14,6 +15,7 @@ export const PowerPlantCard: FC<IPowerPlantCardProps> = ({
   location = '',
   capacity = '',
   image = '',
+  item,
 }) => {
   const statusVariant = useMemo(() => getVariantByStatus(status), [status]);
 
@@ -54,6 +56,7 @@ export const PowerPlantCard: FC<IPowerPlantCardProps> = ({
           <Link
             to={`/power-plant/${id}`}
             className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+            state={item}
           >
             Veja mais
             <ArrowIcon className="rtl:rotate-180 w-3.5 h-3.5 ms-2" />

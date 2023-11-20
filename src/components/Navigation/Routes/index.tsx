@@ -10,6 +10,9 @@ const AppLayout = lazy(
 
 /* -- Pages -- */
 const DashboardPage = lazy(async () => await import('~pages/DashboardPage'));
+const PowerPlantDetailsPage = lazy(
+  async () => await import('~pages/PowerPlantDetailsPage'),
+);
 
 export const AppRoutes: FC = () => {
   return (
@@ -19,6 +22,10 @@ export const AppRoutes: FC = () => {
           <Routes>
             <Route element={<AppLayout />}>
               <Route index path="/" element={<DashboardPage />} />
+              <Route
+                path="/power-plant/:id"
+                element={<PowerPlantDetailsPage />}
+              />
             </Route>
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>

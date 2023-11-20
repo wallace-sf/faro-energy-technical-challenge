@@ -19,6 +19,7 @@ export const PowerPlantList: FC<IPowerPlantListProps> = ({ data = [] }) => {
           capacity={powerPlant.capacidade}
           location={powerPlant.localizacao}
           image={powerPlant.imagem}
+          item={powerPlant}
         />
       </li>
     ));

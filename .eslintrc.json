@@ -100,7 +100,10 @@
     },
     "react": {
       "version": "detect"
-    }
+    },
+    "import/ignore": [
+      "react-apexcharts"
+    ]
   },
   "ignorePatterns": ["vite.config.ts", "tailwind.config.ts"]
 }
