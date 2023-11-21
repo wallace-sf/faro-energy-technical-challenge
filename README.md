@@ -20,7 +20,7 @@ Desafio técnico do candidato [Wallace Ferreira](https://www.linkedin.com/in/wal
 
  ## [Requisitos](requirements)
 
- Para ler os requisitos técnicos do desafio, [clique aqui](https://github.com/wallace-sf/faro-energy-technical-challenge/blob/docs/README/REQUIREMENTS.md).
+ Para ler os requisitos técnicos do desafio, [clique aqui](./REQUIREMENTS.md).
 
  ## [Features](features)
 
@@ -79,7 +79,7 @@ Inicie a aplicação Web
 pnpm dev
 ```
 
-## [Sobre mim]
+## [Sobre mim](about-me)
 
 - [@wallace-sf](https://www.github.com/wallace-sf)
 - [Linkedin](https://www.linkedin.com/in/wallace-silva-ferreira/)
