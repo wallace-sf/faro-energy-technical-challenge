@@ -79,7 +79,7 @@ Inicie a aplicação Web
 pnpm dev
 ```
 
-## [Sobre mim]
+## [Sobre mim](about-me)
 
 - [@wallace-sf](https://www.github.com/wallace-sf)
 - [Linkedin](https://www.linkedin.com/in/wallace-silva-ferreira/)
